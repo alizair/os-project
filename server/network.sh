@@ -1,6 +1,11 @@
-client1_ip="10.0.2.5"
-client2_ip="10.0.2.6"
-# ips for me are: c1: 10.0.2.5, c2: 10.0.2.6, s: 10.0.2.7
+if [[ $# -lt 2 ]]; then
+    echo "Error: please pass the ip addresses of the two client vms"
+    exit 1
+fi
+
+client1_ip=$1
+client2_ip=$2
+
 for i in {1..3}; do
     echo "pinging client 1 ip: $client1_ip ..."
     if ping -c 3 -W 3 "$client1_ip"; then    #-c 3 means send 3 packets, -W means wait time is 3 seconds
