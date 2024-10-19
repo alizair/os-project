@@ -3,6 +3,20 @@ if [[ $# -lt 2 ]]; then
     exit 1
 fi
 
+# checking if the ping command is found on the system
+if ! command -v ping &> /dev/null; then
+    echo "ping could not be found, installing ..."
+    sudo apt install -y iputils-ping &> /dev/null || sudo dnf install -y iputils &> /dev/null
+    echo "ping installed successfully."
+fi
+
+# checking if the traceroute command is found on the system
+if ! command -v traceroute &> /dev/null; then
+    echo "traceroute could not be found, installing ..."
+    sudo apt install -y traceroute &> /dev/null || sudo dnf install -y traceroute &> /dev/null
+    echo "tracerouter installed successfully."
+fi
+
 client1_ip=$1
 client2_ip=$2
 
