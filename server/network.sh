@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [[ $# -lt 2 ]]; then
     echo "Error: please pass the ip addresses of the two client vms"
     exit 1
