@@ -6,7 +6,7 @@ drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Downloads
 drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Music
 drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Pictures
 drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Public
-drwxrwxr-x 2 administrator administrator 4096 Oct 20 19:31 scripts
+drwxrwxr-x 2 administrator administrator 4096 Oct 21 22:32 scripts
 drwx------ 6 administrator administrator 4096 Oct 19 18:00 snap
 drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Templates
 drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Videos
@@ -30,13 +30,10 @@ total 0
 total 0
 
 /home/administrator/scripts:
-total 20
--rw-rw-r-- 1 administrator administrator    0 Oct 20 19:40 disk_info.log
--rw-rw-r-- 1 administrator administrator   27 Oct 20 19:31 mem_cpu_info.lo
--rw-rw-r-- 1 administrator administrator  639 Oct 20 19:31 mem_cpu_info.log
+total 12
 -rw-rw-r-- 1 administrator administrator 2808 Oct 19 21:25 network.log
 -rwxrw-r-- 1 administrator administrator 2115 Oct 20 16:50 network.sh
--rwxrw-r-- 1 administrator administrator  619 Oct 20 19:40 system.sh
+-rwxrw-r-- 1 administrator administrator  952 Oct 21 22:32 system.sh
 
 /home/administrator/snap:
 total 16
@@ -207,16 +204,16 @@ total 0
 /home/administrator/Videos:
 total 0
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           255M  2.0M  253M   1% /run
+tmpfs           255M  1.9M  253M   1% /run
 /dev/sda2        20G  9.6G  9.0G  52% /
 tmpfs           1.3G  432K  1.3G   1% /dev/shm
-tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
-tmpfs           1.3G   16K  1.3G   1% /tmp
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           1.3G   16K  1.3G   1% /tmp
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           255M  116K  255M   1% /run/user/1000
+tmpfs           255M  120K  255M   1% /run/user/1000
