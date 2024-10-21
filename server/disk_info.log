@@ -1,0 +1,219 @@
+/home/administrator:
+total 40
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Desktop
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Documents
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Downloads
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Music
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Pictures
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Public
+drwxrwxr-x 2 administrator administrator 4096 Oct 21 22:32 scripts
+drwx------ 6 administrator administrator 4096 Oct 19 18:00 snap
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Templates
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Videos
+
+/home/administrator/Desktop:
+total 0
+
+/home/administrator/Documents:
+total 0
+
+/home/administrator/Downloads:
+total 0
+
+/home/administrator/Music:
+total 0
+
+/home/administrator/Pictures:
+total 0
+
+/home/administrator/Public:
+total 0
+
+/home/administrator/scripts:
+total 12
+-rw-rw-r-- 1 administrator administrator 2808 Oct 19 21:25 network.log
+-rwxrw-r-- 1 administrator administrator 2115 Oct 20 16:50 network.sh
+-rwxrw-r-- 1 administrator administrator  952 Oct 21 22:32 system.sh
+
+/home/administrator/snap:
+total 16
+drwxr-xr-x 5 administrator administrator 4096 Oct 20 16:39 firefox
+drwxr-xr-x 5 administrator administrator 4096 Oct 19 21:00 firmware-updater
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 10:32 prompting-client
+drwxr-xr-x 5 administrator administrator 4096 Oct 19 19:56 snapd-desktop-integration
+
+/home/administrator/snap/firefox:
+total 12
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 10:49 5091
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 10:49 5134
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 10:49 common
+lrwxrwxrwx 1 administrator administrator    4 Oct 19 10:49 current -> 5091
+
+/home/administrator/snap/firefox/5091:
+total 0
+
+/home/administrator/snap/firefox/5134:
+total 0
+
+/home/administrator/snap/firefox/common:
+total 0
+
+/home/administrator/snap/firmware-updater:
+total 12
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 18:00 127
+drwxr-xr-x 4 administrator administrator 4096 Oct 19 21:00 147
+drwxr-xr-x 3 administrator administrator 4096 Oct 19 18:00 common
+lrwxrwxrwx 1 administrator administrator    3 Oct 19 21:00 current -> 147
+
+/home/administrator/snap/firmware-updater/127:
+total 0
+
+/home/administrator/snap/firmware-updater/147:
+total 0
+
+/home/administrator/snap/firmware-updater/common:
+total 0
+
+/home/administrator/snap/prompting-client:
+total 8
+drwxr-xr-x 12 administrator administrator 4096 Oct 19 10:34 51
+drwxr-xr-x  3 administrator administrator 4096 Oct 19 10:32 common
+lrwxrwxrwx  1 administrator administrator    2 Oct 19 10:32 current -> 51
+
+/home/administrator/snap/prompting-client/51:
+total 32
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Desktop
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Documents
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Downloads
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Music
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Pictures
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Public
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Templates
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Videos
+
+/home/administrator/snap/prompting-client/51/Desktop:
+total 0
+
+/home/administrator/snap/prompting-client/51/Documents:
+total 0
+
+/home/administrator/snap/prompting-client/51/Downloads:
+total 0
+
+/home/administrator/snap/prompting-client/51/Music:
+total 0
+
+/home/administrator/snap/prompting-client/51/Pictures:
+total 0
+
+/home/administrator/snap/prompting-client/51/Public:
+total 0
+
+/home/administrator/snap/prompting-client/51/Templates:
+total 0
+
+/home/administrator/snap/prompting-client/51/Videos:
+total 0
+
+/home/administrator/snap/prompting-client/common:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration:
+total 12
+drwxr-xr-x 12 administrator administrator 4096 Oct 19 10:32 247
+drwxr-xr-x 12 administrator administrator 4096 Oct 19 19:56 253
+drwxr-xr-x  3 administrator administrator 4096 Oct 19 10:32 common
+lrwxrwxrwx  1 administrator administrator    3 Oct 19 19:56 current -> 253
+
+/home/administrator/snap/snapd-desktop-integration/247:
+total 32
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Desktop
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Documents
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Downloads
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Music
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Pictures
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Public
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Templates
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Videos
+
+/home/administrator/snap/snapd-desktop-integration/247/Desktop:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Documents:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Downloads:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Music:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Pictures:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Public:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Templates:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/247/Videos:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253:
+total 32
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Desktop
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Documents
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Downloads
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Music
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Pictures
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Public
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Templates
+drwxr-xr-x 2 administrator administrator 4096 Oct 19 10:32 Videos
+
+/home/administrator/snap/snapd-desktop-integration/253/Desktop:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Documents:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Downloads:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Music:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Pictures:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Public:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Templates:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/253/Videos:
+total 0
+
+/home/administrator/snap/snapd-desktop-integration/common:
+total 0
+
+/home/administrator/Templates:
+total 0
+
+/home/administrator/Videos:
+total 0
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           255M  1.9M  253M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.3G  432K  1.3G   1% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           1.3G   16K  1.3G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           255M  120K  255M   1% /run/user/1000
