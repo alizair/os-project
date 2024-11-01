@@ -1,27 +1,35 @@
 #!/bin/bash
 
-#Ensuring the required commands are installed: ping, traceroute, route, and hostname
+# Ensuring the required commands are installed: ping, traceroute, route, and hostname
+# we are only considering ubuntu / debian-based linux distributions and fedora / red-hat based linux distributions
+# therefore we use apt for installing the packages first and then fallback to using dnf as the package manager if using
+# apt fails
 if ! command -v ping &> /dev/null; then
         echo "ping could not be found, installing ..."
+        # using apt update to refresh the packages metadata however, this is not really needed for dnf since dnf install
+        # does that implicity
+        sudo apt update &> /dev/null
         sudo apt install -y iputils-ping &> /dev/null || sudo dnf install -y iputils-ping &> /dev/null
         echo "ping installed successfully."
 fi
 if ! command -v traceroute &> /dev/null; then
         echo "traceroute could not be found, installing ..."
+        sudo apt update &> /dev/null
         sudo apt install -y traceroute &> /dev/null || sudo dnf install -y traceroute &> /dev/null
         echo "traceroute installed successfully."
 fi
 if ! command -v route &> /dev/null; then
         echo "route could not be found, installing ..."
+        sudo apt update &> /dev/null
         sudo apt install -y net-tools  &> /dev/null || sudo dnf install -y net-tools &> /dev/null
         echo "route installed successfully."
 fi
 if ! command -v hostname &> /dev/null; then
         echo "hostname could not be found, installing ..."
+        sudo apt update &> /dev/null
         sudo apt install -y hostname &> /dev/null || sudo dnf install -y hostname &> /dev/null
         echo "hostname installed successfully."
 fi
-# Ensuring the required commands are installed: ping, traceroute, route, and hostname
 
 
 if [[ $# -lt 1 ]]; then
