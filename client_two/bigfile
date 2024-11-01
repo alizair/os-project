@@ -11,10 +11,34 @@ Files larger than 1M:
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db
 /home/administrator/.cache/tracker3/files/meta.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-wal
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db
 /home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db
 
-Number of files found: 16
-Search Date: 2024-10-26 22:03:05
+Number of files found: 17
+Search Date: 2024-11-01 23:13:01
+
+Files larger than 1M:
+/home/administrator/snap/snap-store/common/.cache/mesa_shader_cache/index
+/home/administrator/snap/firefox/common/.mozilla/firefox/i01g01x5.default/places.sqlite
+/home/administrator/snap/firefox/common/.mozilla/firefox/i01g01x5.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+/home/administrator/snap/firefox/common/.mozilla/firefox/i01g01x5.default/favicons.sqlite
+/home/administrator/snap/firefox/common/.cache/mozilla/firefox/i01g01x5.default/startupCache/scriptCache.bin
+/home/administrator/snap/firefox/common/.cache/mozilla/firefox/i01g01x5.default/startupCache/startupCache.8.little
+/home/administrator/snap/firefox/common/.cache/mozilla/firefox/i01g01x5.default/cache2/entries/1DB552211DB8C98433C758FB417BD178546DD5BE
+/home/administrator/snap/firefox/common/.cache/mesa_shader_cache/index
+/home/administrator/.cache/mesa_shader_cache_db/index
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db
+/home/administrator/.cache/tracker3/files/meta.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db-wal
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db
+/home/administrator/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db
+
+Number of files found: 17
+Search Date: 2024-11-01 23:27:44
+
