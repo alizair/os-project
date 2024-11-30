@@ -1,0 +1,2004 @@
+Connection with 10.0.2.5 is down at 2024-10-19 20:09:15
+Connection with 10.0.2.6 is down at 2024-10-19 20:09:15
+Connection with 10.0.2.5 is down at 2024-10-19 20:09:18
+Connection with 10.0.2.6 is down at 2024-10-19 20:09:18
+Connection with 10.0.2.5 is down at 2024-10-19 20:09:19
+Connection with 10.0.2.6 is down at 2024-10-19 20:09:19
+2024-10-19 20:10:27: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:10:29: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:10:31: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:10:33: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:10:36: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:10:38: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:18:52: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:18:54: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:18:56: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:18:58: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:19:00: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:19:02: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:25:57: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:25:57: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:25:58: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:25:58: Connectivity with 10.10.10.130 is ok
+2024-10-19 20:25:59: Connectivity with 10.10.10.129 is ok
+2024-10-19 20:25:59: Connectivity with 10.10.10.130 is ok
+Connection with 10.10.10.129 is down at 2024-10-19 21:06:48
+Connection with 10.10.10.130 is down at 2024-10-19 21:06:48
+Connection with 10.10.10.129 is down at 2024-10-19 21:06:48
+Connection with 10.10.10.130 is down at 2024-10-19 21:06:49
+Connection with 10.10.10.129 is down at 2024-10-19 21:06:49
+Connection with 10.10.10.130 is down at 2024-10-19 21:06:49
+2024-10-19 21:09:09: Connectivity with 10.10.10.129 is ok
+2024-10-19 21:09:11: Connectivity with 10.10.10.130 is ok
+2024-10-19 21:09:13: Connectivity with 10.10.10.129 is ok
+2024-10-19 21:09:15: Connectivity with 10.10.10.130 is ok
+2024-10-19 21:09:17: Connectivity with 10.10.10.129 is ok
+2024-10-19 21:09:19: Connectivity with 10.10.10.130 is ok
+Connection with 10.10.10.129 is down at 2024-10-19 21:16:53
+Connection with 10.10.10.130 is down at 2024-10-19 21:16:57
+Connection with 10.10.10.129 is down at 2024-10-19 21:16:58
+Connection with 10.10.10.130 is down at 2024-10-19 21:16:58
+Connection with 10.10.10.129 is down at 2024-10-19 21:16:58
+Connection with 10.10.10.130 is down at 2024-10-19 21:16:58
+Connection with 10.10.10.129 is down at 2024-10-19 21:24:56
+Connection with 10.10.10.130 is down at 2024-10-19 21:24:59
+Connection with 10.10.10.129 is down at 2024-10-19 21:25:00
+Connection with 10.10.10.130 is down at 2024-10-19 21:25:00
+Connection with 10.10.10.129 is down at 2024-10-19 21:25:01
+Connection with 10.10.10.130 is down at 2024-10-19 21:25:01
+Connection with 10.10.10.129 is down at 2024-11-02 14:40:00
+Connection with 10.10.10.132 is down at 2024-11-02 14:40:03
+Connection with 10.10.10.129 is down at 2024-11-02 14:40:07
+Connection with 10.10.10.132 is down at 2024-11-02 14:40:07
+Connection with 10.10.10.129 is down at 2024-11-02 14:40:07
+Connection with 10.10.10.132 is down at 2024-11-02 14:40:08
+2024-11-02 14:51:28: Connectivity with 10.10.10.129 is ok
+2024-11-02 14:51:30: Connectivity with 10.10.10.130 is ok
+2024-11-02 14:51:32: Connectivity with 10.10.10.129 is ok
+2024-11-02 14:51:34: Connectivity with 10.10.10.130 is ok
+2024-11-02 14:51:36: Connectivity with 10.10.10.129 is ok
+2024-11-02 14:51:38: Connectivity with 10.10.10.130 is ok
+Connection with 10.10.10.129 is down at 2024-11-02 15:50:06
+2024-11-02 15:50:22: Starting traceroute diagnostics for 10.10.10.129
+2024-11-02 15:50:22: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-02 15:50:22: Displaying hostname
+server
+2024-11-02 15:50:22: Testing local DNS Server: 127.0.0.53
+2024-11-02 15:50:22: DNS Server is reachable
+2024-11-02 15:50:22: Tracing route to google.com
+traceroute to google.com (216.58.209.206), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.837 ms  0.793 ms  0.693 ms
+ 2  10.128.0.1 (10.128.0.1)  130.570 ms  130.532 ms  130.497 ms
+ 3  s9190441.blix.com (91.90.44.1)  130.447 ms  130.403 ms  130.376 ms
+ 4  200ge1.ra-e1-r1.bdc-osl.blix.com (193.28.1.0)  130.257 ms  130.216 ms  130.184 ms
+ 5  100ge4.ncs-dpu-osl.blix.com (178.255.145.4)  130.176 ms  130.473 ms  130.437 ms
+ 6  100ge1.ncs-ix-arn.blix.com (178.255.145.177)  138.828 ms  157.060 ms  157.006 ms
+ 7  142.250.163.54 (142.250.163.54)  156.952 ms  204.055 ms  204.005 ms
+ 8  * * *
+ 9  209.85.246.56 (209.85.246.56)  203.866 ms 172.253.72.122 (172.253.72.122)  203.792 ms 209.85.246.26 (209.85.246.26)  203.737 ms
+10  108.170.233.10 (108.170.233.10)  203.706 ms 142.251.248.122 (142.251.248.122)  203.683 ms 108.170.233.10 (108.170.233.10)  203.652 ms
+11  108.170.234.91 (108.170.234.91)  203.654 ms 108.170.227.249 (108.170.227.249)  203.615 ms  203.347 ms
+12  216.239.57.101 (216.239.57.101)  203.392 ms 142.250.208.150 (142.250.208.150)  203.256 ms 142.250.235.255 (142.250.235.255)  203.260 ms
+13  192.178.104.137 (192.178.104.137)  203.111 ms 192.178.104.135 (192.178.104.135)  203.096 ms 192.178.104.229 (192.178.104.229)  202.943 ms
+14  142.250.227.83 (142.250.227.83)  202.906 ms  202.968 ms  202.923 ms
+15  bud02s22-in-f14.1e100.net (216.58.209.206)  202.741 ms  202.689 ms  202.656 ms
+2024-11-02 15:50:22: Pinging google.com
+2024-11-02 15:50:22: Connectivity to google.com is ok
+2024-11-02 15:50:22: Tracing route to 10.10.10.129
+traceroute to 10.10.10.129 (10.10.10.129), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3086.564 ms !H  3086.484 ms !H  3086.482 ms !H
+2024-11-02 15:50:22: Pinging 10.10.10.129
+2024-11-02 15:50:22: Cannot reach 10.10.10.129. Rebooting the system...
+2024-11-24 15:35:28: Connectivity with 10.10.10.129 is ok
+2024-11-24 15:35:31: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:35:32
+2024-11-24 15:35:32: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:35:32: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:35:32: Displaying hostname
+server
+2024-11-24 15:35:32: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:35:32: DNS Server is reachable
+2024-11-24 15:35:32: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.101 ms  0.085 ms  0.104 ms
+ 2  10.128.0.1 (10.128.0.1)  302.897 ms  302.836 ms  302.783 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  302.664 ms  302.609 ms  302.563 msConnection with 10.10.10.130 is down at 2024-11-24 15:35:35
+2024-11-24 15:35:35: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:35:35: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:35:35: Displaying hostname
+server
+2024-11-24 15:35:35: Testing local DNS Server: 127.0.0.53
+
+ 4  72.14.223.38 (72.14.223.38)  302.512 ms  302.464 ms  302.473 ms
+ 5  * * *2024-11-24 15:35:35: DNS Server is reachable
+2024-11-24 15:35:35: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 6  142.251.48.38 (142.251.48.38)  302.316 ms
+ 1  _gateway (10.10.10.2)  0.138 ms  0.080 ms  0.095 ms
+ 2  10.128.0.1 (10.128.0.1)  393.515 ms  393.466 ms  393.428 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  393.376 ms  393.337 ms  393.299 ms
+ 4  72.14.223.38 (72.14.223.38)  393.270 ms  393.221 ms  393.221 ms
+ 5  * * * 172.253.72.118 (172.253.72.118)  306.012 ms2024-11-24 15:38:30: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:38:33
+2024-11-24 15:38:33: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:38:33: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:38:33: Displaying hostname
+server
+2024-11-24 15:38:33: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:38:33: Connectivity with 10.10.10.129 is ok
+2024-11-24 15:38:33: DNS Server is reachable
+2024-11-24 15:38:33: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.111 ms  0.067 ms  0.041 ms
+ 2  10.128.0.1 (10.128.0.1)  301.668 ms  301.608 ms  301.533 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  301.483 ms  301.390 ms  301.313 msConnection with 10.10.10.130 is down at 2024-11-24 15:38:36
+2024-11-24 15:38:36: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:38:36: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:38:36: Displaying hostname
+server
+2024-11-24 15:38:36: Testing local DNS Server: 127.0.0.53
+
+ 4  72.14.223.38 (72.14.223.38)  301.199 ms  301.143 ms  301.105 ms2024-11-24 15:38:36: DNS Server is reachable
+2024-11-24 15:38:36: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 5  * * *
+ 1  _gateway (10.10.10.2)  0.103 ms  0.048 ms  0.055 ms
+ 6  209.85.242.10 (209.85.242.10)  300.926 ms
+ 2  10.128.0.1 (10.128.0.1)  383.472 ms  383.439 ms  383.402 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  383.368 ms  383.325 ms  383.267 ms
+ 4  72.14.223.38 (72.14.223.38)  383.219 ms  383.155 ms  383.146 ms
+ 5  * * *
+ 6  142.251.236.70 (142.251.236.70)  382.991 ms 142.251.65.82 (142.251.65.82)  308.308 ms 142.251.48.40 (142.251.48.40)  308.216 ms
+ 7  142.251.48.45 (142.251.48.45)  308.150 ms 142.250.239.182 (142.250.239.182)  306.078 ms 172.253.72.118 (172.253.72.118)  306.025 ms 142.251.48.43 (142.251.48.43)  305.379 ms
+ 7  142.251.48.43 (142.251.48.43)  305.976 ms 108.170.233.10 (108.170.233.10)  305.325 ms 142.251.48.45 (142.251.48.45)  306.927 ms 142.250.56.92 (142.250.56.92)  306.869 ms
+ 8  192.178.73.203 (192.178.73.203)  305.329 ms arn11s11-in-f14.1e100.net (142.250.74.142)  305.252 ms  305.214 ms
+
+ 8  arn11s11-in-f14.1e100.net (142.250.74.142)  306.805 ms  306.632 ms  306.519 ms
+2024-11-24 15:38:36: Pinging google.com
+2024-11-24 15:38:33: Pinging google.com
+2024-11-24 15:38:36: Connectivity to google.com is ok
+2024-11-24 15:38:33: Connectivity to google.com is ok
+2024-11-24 15:38:33: Tracing route to 10.10.10.130
+2024-11-24 15:38:36: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packetstraceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3050.763 ms !H  3050.725 ms !H  3050.730 ms !H
+
+ 1  server (10.10.10.131)  3050.780 ms !H  3050.774 ms !H  3050.770 ms !H
+2024-11-24 15:38:33: Pinging 10.10.10.130
+2024-11-24 15:38:36: Pinging 10.10.10.130
+2024-11-24 15:38:36: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:38:33: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:39:00: Connectivity with 10.10.10.129 is ok
+2024-11-24 15:39:00: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:39:04
+Connection with 10.10.10.130 is down at 2024-11-24 15:39:04
+2024-11-24 15:39:04: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:39:04: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:39:04: Displaying routing table
+2024-11-24 15:39:04: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:39:04: Displaying hostname
+2024-11-24 15:39:04: Displaying hostname
+server
+server
+2024-11-24 15:39:04: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:39:04: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:39:04: DNS Server is reachable
+2024-11-24 15:39:04: DNS Server is reachable
+2024-11-24 15:39:04: Tracing route to google.com
+2024-11-24 15:39:04: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.830 ms  0.729 ms  0.711 ms
+ 1  _gateway (10.10.10.2)  0.846 ms  0.802 ms  0.732 ms
+ 2  10.128.0.1 (10.128.0.1)  217.679 ms  217.563 ms  217.521 ms
+ 2  10.128.0.1 (10.128.0.1)  217.333 ms  217.309 ms *
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  217.478 ms  217.465 ms  217.453 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  375.739 ms  375.590 ms  375.512 ms
+ 4  72.14.223.38 (72.14.223.38)  217.415 ms *  370.440 ms
+ 4  72.14.223.38 (72.14.223.38)  370.168 ms  370.098 ms  370.051 ms
+ 5  * * *
+ 5  * * *
+ 6  arn11s11-in-f14.1e100.net (142.250.74.142)  370.305 ms
+ 6  209.85.246.26 (209.85.246.26)  370.389 ms 142.251.65.80 (142.251.65.80)  211.215 ms 142.250.239.184 (142.250.239.184)  209.878 ms 108.170.233.40 (108.170.233.40)  211.120 ms 142.250.239.184 (142.250.239.184)  211.195 ms
+2024-11-24 15:39:04: Pinging google.com
+
+ 7  142.250.56.92 (142.250.56.92)  209.739 ms 142.251.48.43 (142.251.48.43)  211.128 ms  211.038 ms
+ 8  arn11s11-in-f14.1e100.net (142.250.74.142)  210.727 ms  210.668 ms  210.632 ms
+2024-11-24 15:39:04: Pinging google.com
+2024-11-24 15:39:04: Connectivity to google.com is ok
+2024-11-24 15:39:04: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-24 15:39:04: Connectivity to google.com is ok
+2024-11-24 15:39:04: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3087.584 ms !H  3087.522 ms !H  3087.518 ms !H
+
+ 1  server (10.10.10.131)  2063.806 ms !H  2063.801 ms !H  2063.797 ms !H
+2024-11-24 15:39:04: Pinging 10.10.10.130
+2024-11-24 15:39:04: Pinging 10.10.10.130
+2024-11-24 15:39:04: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:39:04: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:39:21: Connectivity with 10.10.10.129 is ok
+2024-11-24 15:39:21: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:39:24
+Connection with 10.10.10.130 is down at 2024-11-24 15:39:24
+2024-11-24 15:39:24: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:39:24: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:39:24: Displaying routing table
+2024-11-24 15:39:24: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:39:24: Displaying hostname
+2024-11-24 15:39:24: Displaying hostname
+server
+server
+2024-11-24 15:39:24: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:39:24: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:39:24: DNS Server is reachable
+2024-11-24 15:39:24: DNS Server is reachable
+2024-11-24 15:39:24: Tracing route to google.com
+2024-11-24 15:39:24: Tracing route to google.com
+traceroute to google.com (142.250.74.142), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.142), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.681 ms  0.650 ms  0.583 ms
+ 1  _gateway (10.10.10.2)  6.269 ms  6.326 ms  6.292 ms
+ 2  10.128.0.1 (10.128.0.1)  305.488 ms  305.452 ms  305.418 ms
+ 2  10.128.0.1 (10.128.0.1)  306.392 ms  306.344 ms  306.309 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  305.384 ms  305.353 ms  305.322 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  306.277 ms  306.243 ms  306.210 ms
+ 4  72.14.223.38 (72.14.223.38)  305.318 ms  305.286 ms  305.243 ms
+ 4  72.14.223.38 (72.14.223.38)  306.174 ms  306.123 ms  306.141 ms
+ 5  * * *
+ 5  * * *
+ 6  209.85.242.98 (209.85.242.98)  305.109 ms
+ 6  209.85.242.10 (209.85.242.10)  305.976 ms 142.250.239.182 (142.250.239.182)  305.247 ms 209.85.241.224 (209.85.241.224)  305.235 ms 209.85.241.224 (209.85.241.224)  306.191 ms 108.170.233.40 (108.170.233.40)  305.219 ms
+ 7  142.251.248.122 (142.251.248.122)  306.263 ms
+ 7  142.251.48.45 (142.251.48.45)  305.207 ms 142.251.248.232 (142.251.248.232)  306.157 ms 142.251.48.43 (142.251.48.43)  306.268 ms  306.196 ms 142.251.48.43 (142.251.48.43)  306.052 ms
+ 8  arn11s11-in-f14.1e100.net (142.250.74.142)  306.104 ms
+ 8  arn11s11-in-f14.1e100.net (142.250.74.142)  305.939 ms 142.251.250.251 (142.251.250.251)  306.091 ms 142.251.250.251 (142.251.250.251)  305.943 ms arn11s11-in-f14.1e100.net (142.250.74.142)  305.892 ms
+2024-11-24 15:39:24: Pinging google.com
+ 192.178.73.203 (192.178.73.203)  306.173 ms
+2024-11-24 15:39:24: Pinging google.com
+2024-11-24 15:39:24: Connectivity to google.com is ok
+2024-11-24 15:39:24: Connectivity to google.com is ok
+2024-11-24 15:39:24: Tracing route to 10.10.10.130
+2024-11-24 15:39:24: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packetstraceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3088.471 ms !H  3088.460 ms !H  3088.465 ms !H
+
+ 1  server (10.10.10.131)  3088.487 ms !H  3088.479 ms !H  3088.476 ms !H
+2024-11-24 15:39:24: Pinging 10.10.10.130
+2024-11-24 15:39:24: Pinging 10.10.10.130
+2024-11-24 15:39:24: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:39:24: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:59:29: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:59:32
+2024-11-24 15:59:32: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:59:32: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:59:32: Displaying hostname
+server
+2024-11-24 15:59:32: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:59:32: DNS Server is reachable
+2024-11-24 15:59:32: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.739 ms  0.672 ms  0.622 ms
+ 2  10.128.0.1 (10.128.0.1)  205.603 ms  205.567 ms  205.534 ms
+ 3  gbg-shg-cr2-v11.31173.se (185.213.154.65)  205.487 ms  205.433 ms  205.393 ms
+ 4  sto-vb-cr1-et-0-0-2-v2025.31173.se (185.65.135.46)  214.416 ms  214.374 ms  214.331 ms
+ 5  72.14.223.38 (72.14.223.38)  214.300 ms  214.269 ms  214.226 ms
+ 6  * * *
+ 7  142.251.48.44 (142.251.48.44)  302.313 ms 142.251.48.42 (142.251.48.42)  305.772 ms 142.250.239.184 (142.250.239.184)  305.713 ms
+ 8  142.250.56.92 (142.250.56.92)  305.664 ms arn11s12-in-f14.1e100.net (142.250.74.174)  305.616 ms 142.251.236.73 (142.251.236.73)  305.571 ms
+2024-11-24 15:59:32: Pinging google.com
+2024-11-24 15:59:32: Connectivity to google.com is ok
+2024-11-24 15:59:32: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3052.667 ms !H  3052.497 ms !H  3052.482 ms !H
+2024-11-24 15:59:32: Pinging 10.10.10.130
+2024-11-24 15:59:32: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 15:59:56: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 15:59:59
+2024-11-24 15:59:59: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 15:59:59: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 15:59:59: Displaying hostname
+server
+2024-11-24 15:59:59: Testing local DNS Server: 127.0.0.53
+2024-11-24 15:59:59: DNS Server is reachable
+2024-11-24 15:59:59: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.670 ms  0.599 ms  0.520 ms
+ 2  10.128.0.1 (10.128.0.1)  198.553 ms  198.509 ms  198.473 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  198.440 ms  198.407 ms  198.375 ms
+ 4  72.14.223.38 (72.14.223.38)  200.023 ms  199.988 ms  199.947 ms
+ 5  * * *
+ 6  142.251.48.44 (142.251.48.44)  199.803 ms 172.253.72.118 (172.253.72.118)  195.584 ms 142.250.239.182 (142.250.239.182)  195.520 ms
+ 7  142.250.56.92 (142.250.56.92)  195.484 ms 108.170.233.10 (108.170.233.10)  210.093 ms 142.251.236.71 (142.251.236.71)  210.027 ms
+ 8  arn11s12-in-f14.1e100.net (142.250.74.174)  209.983 ms  209.940 ms 192.178.80.157 (192.178.80.157)  209.817 ms
+2024-11-24 15:59:59: Pinging google.com
+2024-11-24 15:59:59: Connectivity to google.com is ok
+2024-11-24 15:59:59: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3072.861 ms !H  3072.760 ms !H  3072.747 ms !H
+2024-11-24 15:59:59: Pinging 10.10.10.130
+2024-11-24 15:59:59: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 16:00:41: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-24 16:00:44
+2024-11-24 16:00:44: Starting traceroute diagnostics for 10.10.10.130
+2024-11-24 16:00:44: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-24 16:00:44: Displaying hostname
+server
+2024-11-24 16:00:44: Testing local DNS Server: 127.0.0.53
+2024-11-24 16:00:44: DNS Server is reachable
+2024-11-24 16:00:44: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.107 ms  0.043 ms  0.079 ms
+ 2  10.128.0.1 (10.128.0.1)  311.400 ms  311.361 ms  311.328 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  311.295 ms  311.263 ms  311.226 ms
+ 4  72.14.223.38 (72.14.223.38)  311.270 ms  311.230 ms  311.190 ms
+ 5  * * *
+ 6  142.251.48.44 (142.251.48.44)  310.976 ms 142.250.239.182 (142.250.239.182)  298.984 ms 142.251.48.42 (142.251.48.42)  298.911 ms
+ 7  108.170.233.10 (108.170.233.10)  298.859 ms 142.251.248.122 (142.251.248.122)  204.489 ms arn11s12-in-f14.1e100.net (142.250.74.174)  204.383 ms
+2024-11-24 16:00:44: Pinging google.com
+2024-11-24 16:00:44: Connectivity to google.com is ok
+2024-11-24 16:00:44: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3075.494 ms !H  3075.386 ms !H  3075.378 ms !H
+2024-11-24 16:00:44: Pinging 10.10.10.130
+2024-11-24 16:00:44: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-24 16:03:07: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:03:09: Connectivity with 10.10.10.130 is ok
+2024-11-24 16:03:11: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:03:13: Connectivity with 10.10.10.130 is ok
+2024-11-24 16:03:15: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:03:17: Connectivity with 10.10.10.130 is ok
+2024-11-24 16:10:00: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:10:02: Connectivity with 10.10.10.130 is ok
+2024-11-24 16:10:05: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:10:07: Connectivity with 10.10.10.130 is ok
+2024-11-24 16:10:09: Connectivity with 10.10.10.129 is ok
+2024-11-24 16:10:11: Connectivity with 10.10.10.130 is ok
+2024-11-29 22:17:35: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:17:38
+2024-11-29 22:17:38: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:17:38: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:17:38: Displaying hostname
+server
+2024-11-29 22:17:38: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:17:39: Connectivity with 10.10.10.129 is ok
+2024-11-29 22:17:38: DNS Server is reachable
+2024-11-29 22:17:38: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.152 ms  0.081 ms  0.124 ms
+ 2  10.128.0.1 (10.128.0.1)  305.889 ms  305.819 ms  305.771 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  305.720 ms  305.820 ms  305.764 msConnection with 10.10.10.130 is down at 2024-11-29 22:17:43
+2024-11-29 22:17:43: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:17:43: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:17:43: Displaying hostname
+server
+2024-11-29 22:17:43: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:17:43: DNS Server is reachable
+2024-11-29 22:17:43: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.142 ms  0.066 ms  0.067 ms
+ 2  10.128.0.1 (10.128.0.1)  382.542 ms  382.498 ms  382.462 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  382.430 ms  382.397 ms  382.362 ms
+ 4  72.14.223.38 (72.14.223.38)  305.584 ms  305.534 ms  305.494 ms
+ 4  72.14.223.38 (72.14.223.38)  382.328 ms  382.376 ms  382.263 ms
+ 5  * * *
+ 5  * * *
+ 6  209.85.246.56 (209.85.246.56)  382.119 ms 142.251.48.42 (142.251.48.42)  305.210 ms 142.251.48.40 (142.251.48.40)  305.114 ms
+ 7  142.251.236.71 (142.251.236.71)  305.066 ms arn11s12-in-f14.1e100.net (142.250.74.174)  269.678 ms
+ 6  142.251.48.44 (142.251.48.44)  305.311 ms 108.170.233.10 (108.170.233.10)  269.699 ms
+2024-11-29 22:17:43: Pinging google.com
+ 142.251.48.38 (142.251.48.38)  302.290 ms  302.232 ms
+ 7  142.251.236.73 (142.251.236.73)  302.195 ms 142.251.236.71 (142.251.236.71)  269.810 ms 142.251.248.232 (142.251.248.232)  269.750 ms
+ 8  142.251.250.251 (142.251.250.251)  269.685 ms arn11s12-in-f14.1e100.net (142.250.74.174)  269.573 ms  269.540 ms
+2024-11-29 22:17:38: Pinging google.com
+2024-11-29 22:17:43: Connectivity to google.com is ok
+2024-11-29 22:17:43: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-29 22:17:38: Connectivity to google.com is ok
+2024-11-29 22:17:38: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  1729.420 ms !H  1729.387 ms !H  1729.377 ms !H
+
+ 1  server (10.10.10.131)  3064.082 ms !H  3063.972 ms !H  3063.932 ms !H
+2024-11-29 22:17:38: Pinging 10.10.10.130
+2024-11-29 22:17:43: Pinging 10.10.10.130
+2024-11-29 22:17:43: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:17:38: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:18:03: Connectivity with 10.10.10.129 is ok
+2024-11-29 22:18:03: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:18:06
+Connection with 10.10.10.130 is down at 2024-11-29 22:18:06
+2024-11-29 22:18:06: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:18:06: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:18:06: Displaying routing table
+2024-11-29 22:18:06: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:18:06: Displaying hostname
+2024-11-29 22:18:06: Displaying hostname
+server
+server
+2024-11-29 22:18:06: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:18:06: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:18:06: DNS Server is reachable
+2024-11-29 22:18:06: DNS Server is reachable
+2024-11-29 22:18:06: Tracing route to google.com
+2024-11-29 22:18:06: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.714 ms  0.628 ms  0.584 ms
+ 1  _gateway (10.10.10.2)  1.188 ms  0.355 ms  0.294 ms
+ 2  10.128.0.1 (10.128.0.1)  246.567 ms  246.461 ms  246.328 ms
+ 2  10.128.0.1 (10.128.0.1)  247.224 ms  247.179 ms  247.127 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  247.085 ms  247.043 ms  246.882 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  246.281 ms  246.233 ms  246.161 ms
+ 4  72.14.223.38 (72.14.223.38)  246.094 ms  246.028 ms  245.984 ms
+ 4  72.14.223.38 (72.14.223.38)  246.891 ms  246.871 ms  246.854 ms
+ 5  * * *
+ 5  * * *
+ 6  142.250.239.184 (142.250.239.184)  246.788 ms
+ 6  142.250.239.182 (142.250.239.182)  245.814 ms 142.251.65.80 (142.251.65.80)  306.128 ms arn11s12-in-f14.1e100.net (142.250.74.174)  306.106 ms
+2024-11-29 22:18:06: Pinging google.com
+2024-11-29 22:18:06: Connectivity to google.com is ok
+2024-11-29 22:18:06: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets 209.85.242.98 (209.85.242.98)  306.126 ms 172.253.72.118 (172.253.72.118)  306.024 ms
+ 7  142.251.236.73 (142.251.236.73)  305.975 ms 142.251.248.232 (142.251.248.232)  307.047 ms arn11s12-in-f14.1e100.net (142.250.74.174)  306.951 ms
+
+ 1  server (10.10.10.131)  3062.072 ms !H  3061.956 ms !H  3061.929 ms !H
+2024-11-29 22:18:06: Pinging 10.10.10.130
+2024-11-29 22:18:06: Pinging google.com
+2024-11-29 22:18:06: Connectivity to google.com is ok
+2024-11-29 22:18:06: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-29 22:18:06: Cannot reach 10.10.10.130. Rebooting the system...
+
+ 1  server (10.10.10.131)  440.483 ms !H  440.465 ms !H  440.457 ms !H
+2024-11-29 22:18:06: Pinging 10.10.10.130
+2024-11-29 22:18:23: Connectivity with 10.10.10.129 is ok
+2024-11-29 22:18:06: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:18:27: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:18:28
+2024-11-29 22:18:28: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:18:28: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:18:28: Displaying hostname
+server
+2024-11-29 22:18:28: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:18:28: DNS Server is reachable
+2024-11-29 22:18:28: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.122 ms  0.053 ms  0.090 ms
+ 2  10.128.0.1 (10.128.0.1)  253.355 ms  253.303 ms  253.252 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  253.207 ms  253.162 ms  253.105 msConnection with 10.10.10.130 is down at 2024-11-29 22:18:32
+2024-11-29 22:18:32: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:18:32: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:18:32: Displaying hostname
+server
+
+ 4  72.14.223.38 (72.14.223.38)  253.008 ms  252.965 ms  252.954 ms2024-11-29 22:18:32: Testing local DNS Server: 127.0.0.53
+
+ 5  * * *
+ 6  arn11s12-in-f14.1e100.net (142.250.74.174)  252.812 ms 142.251.48.40 (142.251.48.40)  256.309 ms2024-11-29 22:18:32: DNS Server is reachable
+2024-11-29 22:18:32: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets 108.170.233.40 (108.170.233.40)  256.248 ms
+
+ 1  _gateway (10.10.10.2)  0.696 ms  0.649 ms  0.608 ms2024-11-29 22:18:28: Pinging google.com
+
+ 2  10.128.0.1 (10.128.0.1)  292.288 ms  292.239 ms  292.206 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  292.153 ms  292.112 ms  292.070 ms
+ 4  72.14.223.38 (72.14.223.38)  292.023 ms  291.971 ms  292.011 ms2024-11-29 22:18:28: Connectivity to google.com is ok
+2024-11-29 22:18:28: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 5  * * *
+ 6  209.85.242.98 (209.85.242.98)  291.872 ms 142.251.48.38 (142.251.48.38)  305.138 ms 142.251.48.44 (142.251.48.44)  305.047 ms
+ 1  server (10.10.10.131)  3075.416 ms !H  3075.308 ms !H  3075.301 ms !H
+2024-11-29 22:18:28: Pinging 10.10.10.130
+2024-11-29 22:18:28: Cannot reach 10.10.10.130. Rebooting the system...
+
+ 7  142.250.56.92 (142.250.56.92)  305.016 ms 142.251.236.73 (142.251.236.73)  307.194 ms 142.251.248.232 (142.251.248.232)  306.994 ms2024-11-29 22:18:45: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:18:48
+2024-11-29 22:18:48: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:18:48: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:18:48: Displaying hostname
+server
+2024-11-29 22:18:48: Testing local DNS Server: 127.0.0.53
+
+ 8  192.178.73.203 (192.178.73.203)  307.064 ms 142.251.250.55 (142.251.250.55)  306.889 ms arn11s12-in-f14.1e100.net (142.250.74.174)  306.842 ms
+2024-11-29 22:18:32: Pinging google.com
+2024-11-29 22:18:48: DNS Server is reachable
+2024-11-29 22:18:48: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.725 ms  0.684 ms  0.631 ms
+ 2  10.128.0.1 (10.128.0.1)  294.841 ms  294.792 ms  294.757 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  294.703 ms  294.674 ms  294.639 ms
+ 4  72.14.223.38 (72.14.223.38)  294.613 ms  294.662 ms  294.617 ms2024-11-29 22:18:32: Connectivity to google.com is ok
+2024-11-29 22:18:32: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 5  * * *
+ 6  142.251.48.38 (142.251.48.38)  294.462 ms 142.251.48.44 (142.251.48.44)  305.981 ms 142.250.239.184 (142.250.239.184)  305.921 ms
+ 7  142.251.236.73 (142.251.236.73)  305.882 ms 142.251.248.122 (142.251.248.122)  411.490 ms 142.251.236.71 (142.251.236.71)  411.271 ms
+ 8  142.251.250.251 (142.251.250.251)  411.216 ms
+ 1  server (10.10.10.131)  3101.339 ms !H  3101.227 ms !H  3101.216 ms !H
+2024-11-29 22:18:32: Pinging 10.10.10.130
+ arn11s12-in-f14.1e100.net (142.250.74.174)  411.167 ms 142.251.250.251 (142.251.250.251)  411.217 ms
+2024-11-29 22:18:48: Pinging google.com
+2024-11-29 22:18:48: Connectivity to google.com is ok
+2024-11-29 22:18:48: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-29 22:18:32: Cannot reach 10.10.10.130. Rebooting the system...
+
+ 1  server (10.10.10.131)  99.613 ms !H  99.592 ms !H  99.581 ms !H
+2024-11-29 22:18:48: Pinging 10.10.10.130
+2024-11-29 22:18:48: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:19:05: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:19:08
+2024-11-29 22:19:08: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:19:08: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:19:08: Displaying hostname
+server
+2024-11-29 22:19:08: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:19:08: DNS Server is reachable
+2024-11-29 22:19:08: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.694 ms  0.641 ms  0.602 ms
+ 2  10.128.0.1 (10.128.0.1)  308.974 ms  308.927 ms  308.893 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  308.861 ms  308.829 ms  308.752 ms
+ 4  72.14.223.38 (72.14.223.38)  308.806 ms  308.772 ms  308.722 ms
+ 5  * * *
+ 6  172.253.72.118 (172.253.72.118)  308.566 ms 142.251.48.40 (142.251.48.40)  305.878 ms arn11s12-in-f14.1e100.net (142.250.74.174)  305.808 ms
+2024-11-29 22:19:08: Pinging google.com
+2024-11-29 22:19:08: Connectivity to google.com is ok
+2024-11-29 22:19:08: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3095.354 ms !H  3095.279 ms !H  3095.274 ms !H
+2024-11-29 22:19:08: Pinging 10.10.10.130
+2024-11-29 22:19:08: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:19:25: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:19:28
+2024-11-29 22:19:28: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:19:28: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:19:28: Displaying hostname
+server
+2024-11-29 22:19:28: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:19:28: DNS Server is reachable
+2024-11-29 22:19:28: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.738 ms  0.676 ms  0.583 ms
+ 2  10.128.0.1 (10.128.0.1)  306.461 ms  306.411 ms  306.366 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  306.324 ms  306.292 ms  306.260 ms
+ 4  72.14.223.38 (72.14.223.38)  306.207 ms  306.175 ms  306.208 ms
+ 5  * * *
+ 6  142.251.48.38 (142.251.48.38)  306.072 ms 142.250.239.182 (142.250.239.182)  305.533 ms 209.85.242.82 (209.85.242.82)  305.396 ms
+ 7  142.251.248.232 (142.251.248.232)  305.354 ms  245.032 ms 142.250.56.92 (142.250.56.92)  244.942 ms
+ 8  142.251.250.251 (142.251.250.251)  244.870 ms arn11s12-in-f14.1e100.net (142.250.74.174)  244.810 ms 142.251.250.251 (142.251.250.251)  244.760 ms
+2024-11-29 22:19:28: Pinging google.com
+2024-11-29 22:19:28: Connectivity to google.com is ok
+2024-11-29 22:19:28: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3101.517 ms !H  3101.358 ms !H  3101.346 ms !H
+2024-11-29 22:19:28: Pinging 10.10.10.130
+2024-11-29 22:19:28: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:24:41: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:24:44
+2024-11-29 22:24:44: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:24:44: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:24:44: Displaying hostname
+server
+2024-11-29 22:24:44: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:24:44: DNS Server is reachable
+2024-11-29 22:24:44: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.045 ms  0.997 ms  0.764 ms
+ 2  10.128.0.1 (10.128.0.1)  305.885 ms  305.834 ms  305.787 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  305.747 ms  305.708 ms  305.660 ms
+ 4  72.14.223.38 (72.14.223.38)  305.606 ms  305.559 ms  305.568 ms
+ 5  * * *
+ 6  arn11s12-in-f14.1e100.net (142.250.74.174)  305.300 ms 142.250.239.184 (142.250.239.184)  289.214 ms 209.85.242.82 (209.85.242.82)  289.149 ms
+2024-11-29 22:24:44: Pinging google.com
+2024-11-29 22:24:44: Connectivity to google.com is ok
+2024-11-29 22:24:44: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3081.305 ms !H  3081.224 ms !H  3081.216 ms !H
+2024-11-29 22:24:44: Pinging 10.10.10.130
+2024-11-29 22:24:44: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:25:01: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:25:04
+2024-11-29 22:25:04: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:25:04: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:25:04: Displaying hostname
+server
+2024-11-29 22:25:04: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:25:04: DNS Server is reachable
+2024-11-29 22:25:04: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.162 ms  1.087 ms  0.856 ms
+ 2  10.128.0.1 (10.128.0.1)  305.483 ms  305.441 ms  305.390 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  305.340 ms  305.194 ms  305.112 ms
+ 4  72.14.223.38 (72.14.223.38)  305.058 ms  305.020 ms  305.060 ms
+ 5  * * *
+ 6  209.85.242.82 (209.85.242.82)  304.845 ms 142.251.48.40 (142.251.48.40)  300.571 ms 172.253.72.118 (172.253.72.118)  300.452 ms
+ 7  142.251.248.232 (142.251.248.232)  300.388 ms 142.251.236.73 (142.251.236.73)  308.335 ms 142.251.248.122 (142.251.248.122)  308.220 ms
+ 8  arn11s12-in-f14.1e100.net (142.250.74.174)  308.156 ms  308.067 ms 192.178.80.157 (192.178.80.157)  308.048 ms
+2024-11-29 22:25:04: Pinging google.com
+2024-11-29 22:25:04: Connectivity to google.com is ok
+2024-11-29 22:25:04: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3057.875 ms !H  3057.799 ms !H  3057.791 ms !H
+2024-11-29 22:25:04: Pinging 10.10.10.130
+2024-11-29 22:25:04: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-29 22:25:29: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-29 22:25:32
+2024-11-29 22:25:32: Starting traceroute diagnostics for 10.10.10.130
+2024-11-29 22:25:32: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-29 22:25:32: Displaying hostname
+server
+2024-11-29 22:25:32: Testing local DNS Server: 127.0.0.53
+2024-11-29 22:25:32: DNS Server is reachable
+2024-11-29 22:25:32: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.188 ms  0.104 ms  0.135 ms
+ 2  10.128.0.1 (10.128.0.1)  301.102 ms  301.052 ms  301.002 ms
+ 3  sto-vb-cr1-v11.31173.se (185.65.135.65)  300.966 ms  300.932 ms  300.897 ms
+ 4  72.14.223.38 (72.14.223.38)  300.855 ms  300.812 ms  300.818 ms
+ 5  * * *
+ 6  142.250.239.182 (142.250.239.182)  300.670 ms 142.251.48.42 (142.251.48.42)  305.952 ms 142.251.48.38 (142.251.48.38)  305.875 ms
+ 7  142.251.248.232 (142.251.248.232)  305.827 ms 142.251.236.71 (142.251.236.71)  306.270 ms  306.150 ms
+ 8  arn11s12-in-f14.1e100.net (142.250.74.174)  306.101 ms  305.989 ms  305.803 ms
+2024-11-29 22:25:32: Pinging google.com
+2024-11-29 22:25:32: Connectivity to google.com is ok
+2024-11-29 22:25:32: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3108.134 ms !H  3108.004 ms !H  3107.995 ms !H
+2024-11-29 22:25:32: Pinging 10.10.10.130
+2024-11-29 22:25:32: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 16:22:28: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 16:22:31
+2024-11-30 16:22:31: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 16:22:31: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 16:22:31: Displaying hostname
+server
+2024-11-30 16:22:31: Testing local DNS Server: 127.0.0.53
+2024-11-30 16:22:31: DNS Server is reachable
+2024-11-30 16:22:31: Tracing route to google.com
+traceroute to google.com (216.58.208.110), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.691 ms  0.640 ms  0.579 ms
+ 2  10.128.0.1 (10.128.0.1)  262.976 ms  262.921 ms  262.893 ms
+ 3  cph-ix1-cr1-v11.31173.se (141.98.254.65)  262.835 ms  262.806 ms  262.733 ms
+ 4  ams-eq6-cr1-ae2-v2045.31173.se (141.98.254.23)  262.689 ms  262.654 ms  262.650 ms
+ 5  185.65.134.51 (185.65.134.51)  262.613 ms 72.14.210.144 (72.14.210.144)  262.575 ms  262.539 ms
+ 6  * * *
+ 7  142.251.255.38 (142.251.255.38)  246.047 ms 142.251.48.180 (142.251.48.180)  310.327 ms 142.250.224.130 (142.250.224.130)  310.204 ms
+ 8  172.253.66.187 (172.253.66.187)  310.211 ms 74.125.242.188 (74.125.242.188)  310.123 ms 172.253.66.187 (172.253.66.187)  309.972 ms
+ 9  sof01s11-in-f110.1e100.net (216.58.208.110)  309.897 ms  309.856 ms 142.251.238.23 (142.251.238.23)  309.858 ms
+2024-11-30 16:22:31: Pinging google.com
+2024-11-30 16:22:31: Connectivity to google.com is ok
+2024-11-30 16:22:31: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3064.385 ms !H  3063.965 ms !H  3063.950 ms !H
+2024-11-30 16:22:31: Pinging 10.10.10.130
+2024-11-30 16:22:31: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 16:23:04: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 16:23:07
+2024-11-30 16:23:07: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 16:23:07: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 16:23:07: Displaying hostname
+server
+2024-11-30 16:23:07: Testing local DNS Server: 127.0.0.53
+2024-11-30 16:23:07: DNS Server is reachable
+2024-11-30 16:23:07: Tracing route to google.com
+traceroute to google.com (216.58.208.110), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.118 ms  0.983 ms  0.932 ms
+ 2  10.128.0.1 (10.128.0.1)  206.617 ms  206.562 ms  206.511 ms
+ 3  cph-ix1-cr1-v11.31173.se (141.98.254.65)  206.433 ms  206.366 ms  206.264 ms
+ 4  ams-eq6-cr1-ae2-v2045.31173.se (141.98.254.23)  215.631 ms  215.578 ms  215.530 ms
+ 5  185.65.134.51 (185.65.134.51)  215.493 ms 72.14.210.144 (72.14.210.144)  217.324 ms  217.189 ms
+ 6  * * *
+ 7  142.251.48.178 (142.251.48.178)  308.554 ms 216.239.49.12 (216.239.49.12)  298.034 ms 142.251.48.176 (142.251.48.176)  297.975 ms
+ 8  172.253.66.185 (172.253.66.185)  297.890 ms sof01s11-in-f110.1e100.net (216.58.208.110)  297.832 ms 74.125.243.116 (74.125.243.116)  297.779 ms
+2024-11-30 16:23:07: Pinging google.com
+2024-11-30 16:23:07: Connectivity to google.com is ok
+2024-11-30 16:23:07: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3090.719 ms !H  3090.636 ms !H  3090.627 ms !H
+2024-11-30 16:23:07: Pinging 10.10.10.130
+2024-11-30 16:23:07: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 16:23:27: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 16:23:30
+2024-11-30 16:23:30: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 16:23:30: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 16:23:30: Displaying hostname
+server
+2024-11-30 16:23:30: Testing local DNS Server: 127.0.0.53
+2024-11-30 16:23:30: DNS Server is reachable
+2024-11-30 16:23:30: Tracing route to google.com
+traceroute to google.com (216.58.208.110), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.805 ms  0.753 ms  0.670 ms
+ 2  10.128.0.1 (10.128.0.1)  313.324 ms  313.286 ms  313.187 ms
+ 3  cph-ix1-cr1-v11.31173.se (141.98.254.65)  313.142 ms  313.061 ms  313.009 ms
+ 4  ams-eq6-cr1-ae2-v2045.31173.se (141.98.254.23)  312.975 ms  312.937 ms  312.955 ms
+ 5  185.65.134.51 (185.65.134.51)  312.916 ms  312.875 ms 72.14.210.144 (72.14.210.144)  312.843 ms
+ 6  * * *
+ 7  209.85.250.122 (209.85.250.122)  299.051 ms 142.251.66.240 (142.251.66.240)  307.838 ms 142.251.255.40 (142.251.255.40)  307.761 ms
+ 8  192.178.251.80 (192.178.251.80)  307.679 ms 172.253.66.185 (172.253.66.185)  307.620 ms  307.560 ms
+ 9  ams17s08-in-f14.1e100.net (216.58.208.110)  307.396 ms 108.170.237.171 (108.170.237.171)  307.369 ms 216.239.41.49 (216.239.41.49)  307.310 ms
+2024-11-30 16:23:30: Pinging google.com
+2024-11-30 16:23:30: Connectivity to google.com is ok
+2024-11-30 16:23:30: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3091.299 ms !H  3091.245 ms !H  3091.242 ms !H
+2024-11-30 16:23:30: Pinging 10.10.10.130
+2024-11-30 16:23:30: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 20:53:21: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 20:53:24
+2024-11-30 20:53:24: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 20:53:24: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 20:53:24: Displaying hostname
+server
+2024-11-30 20:53:24: Testing local DNS Server: 127.0.0.53
+2024-11-30 20:53:24: DNS Server is reachable
+2024-11-30 20:53:24: Tracing route to google.com
+traceroute to google.com (142.251.36.14), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.936 ms  0.850 ms  0.816 ms
+ 2  10.128.0.1 (10.128.0.1)  203.782 ms  203.722 ms  203.683 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  203.638 ms  203.602 ms  203.542 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  204.113 ms  204.079 ms  204.045 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  203.996 ms  203.962 ms  203.919 ms
+ 6  72.14.210.144 (72.14.210.144)  203.880 ms  194.123 ms 185.65.134.51 (185.65.134.51)  194.059 ms
+ 7  * * *
+ 8  142.251.48.180 (142.251.48.180)  196.919 ms 142.251.48.178 (142.251.48.178)  196.873 ms 216.239.49.12 (216.239.49.12)  198.083 ms
+ 9  172.253.71.201 (172.253.71.201)  198.027 ms  197.970 ms 192.178.251.194 (192.178.251.194)  197.927 ms
+10  209.85.255.214 (209.85.255.214)  199.176 ms ams15s44-in-f14.1e100.net (142.251.36.14)  197.823 ms 142.251.237.172 (142.251.237.172)  199.070 ms
+2024-11-30 20:53:24: Pinging google.com
+2024-11-30 21:26:43: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:26:46
+2024-11-30 21:26:46: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:26:46: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:26:46: Displaying hostname
+server
+2024-11-30 21:26:46: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:26:46: DNS Server is reachable
+2024-11-30 21:26:46: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.009 ms  0.883 ms  0.797 ms
+ 2  10.128.0.1 (10.128.0.1)  202.634 ms  202.583 ms  202.535 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  202.488 ms  202.447 ms  202.405 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  207.989 ms  207.928 ms  207.885 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  207.839 ms  207.805 ms  207.773 ms
+ 6  185.65.134.51 (185.65.134.51)  207.738 ms  210.572 ms  210.471 ms
+ 7  * * *
+ 8  142.250.224.132 (142.250.224.132)  406.505 ms 172.253.66.186 (172.253.66.186)  406.366 ms 209.85.250.122 (209.85.250.122)  406.237 ms
+ 9  74.125.242.188 (74.125.242.188)  406.166 ms 142.251.66.241 (142.251.66.241)  305.859 ms 72.14.236.226 (72.14.236.226)  305.734 ms
+10  142.251.237.169 (142.251.237.169)  305.529 ms 108.170.237.171 (108.170.237.171)  305.463 ms  305.479 ms
+11  ams17s12-in-f14.1e100.net (142.251.36.46)  305.349 ms 108.170.238.126 (108.170.238.126)  305.305 ms ams17s12-in-f14.1e100.net (142.251.36.46)  305.262 ms
+2024-11-30 21:26:46: Pinging google.com
+2024-11-30 21:26:46: Connectivity to google.com is ok
+2024-11-30 21:26:46: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 21:27:13: Connectivity with 10.10.10.129 is ok
+
+ 1  server (10.10.10.131)  3096.217 ms !H  3096.139 ms !H  3096.133 ms !H
+2024-11-30 21:26:46: Pinging 10.10.10.130
+2024-11-30 21:26:46: Cannot reach 10.10.10.130. Rebooting the system...
+Connection with 10.10.10.130 is down at 2024-11-30 21:27:18
+2024-11-30 21:27:18: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:27:18: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:27:18: Displaying hostname
+server
+2024-11-30 21:27:18: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:27:18: DNS Server is reachable
+2024-11-30 21:27:20: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:27:18: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.111 ms  0.106 ms  0.236 ms
+ 2  10.128.0.1 (10.128.0.1)  204.185 ms  204.034 ms  203.834 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  203.429 ms  203.325 ms  203.201 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  206.714 ms  206.666 ms  206.628 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  206.580 ms  206.534 ms  206.495 ms
+ 6  185.65.134.51 (185.65.134.51)  206.446 ms 72.14.210.144 (72.14.210.144)  209.136 ms  209.066 ms
+ 7  * * *Connection with 10.10.10.130 is down at 2024-11-30 21:27:23
+2024-11-30 21:27:23: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:27:23: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:27:23: Displaying hostname
+server
+2024-11-30 21:27:23: Testing local DNS Server: 127.0.0.53
+
+ 8  172.253.66.186 (172.253.66.186)  208.207 ms 142.250.224.132 (142.250.224.132)  208.164 ms 142.251.255.38 (142.251.255.38)  208.868 ms
+ 9  72.14.236.226 (72.14.236.226)  208.079 ms ams17s12-in-f14.1e100.net (142.251.36.46)  286.537 ms2024-11-30 21:27:23: DNS Server is reachable
+2024-11-30 21:27:23: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.045 ms  0.103 ms  0.065 ms
+ 2  10.128.0.1 (10.128.0.1)  258.204 ms  258.133 ms  258.084 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  258.049 ms  258.016 ms  257.981 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  257.949 ms  258.097 ms  258.027 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  257.956 ms  257.908 ms  257.861 ms
+ 6  185.65.134.51 (185.65.134.51)  257.635 ms 72.14.210.144 (72.14.210.144)  209.383 ms 185.65.134.51 (185.65.134.51)  207.367 ms
+ 7  * * *
+ 8  ams17s12-in-f14.1e100.net (142.251.36.46)  206.957 ms 142.251.48.178 (142.251.48.178)  206.852 ms 142.250.224.130 (142.250.224.130)  206.624 ms
+2024-11-30 21:27:23: Pinging google.com
+ 142.251.66.239 (142.251.66.239)  286.266 ms
+2024-11-30 21:27:18: Pinging google.com
+2024-11-30 21:27:23: Connectivity to google.com is ok
+2024-11-30 21:27:23: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 21:27:18: Connectivity to google.com is ok
+2024-11-30 21:27:18: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  2596.733 ms !H  2596.715 ms !H  2596.707 ms !H
+
+ 1  server (10.10.10.131)  3108.441 ms !H  3108.317 ms !H  3108.306 ms !H
+2024-11-30 21:27:23: Pinging 10.10.10.130
+2024-11-30 21:27:18: Pinging 10.10.10.130
+2024-11-30 21:27:23: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:27:18: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:27:40: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:27:40: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:27:43
+Connection with 10.10.10.130 is down at 2024-11-30 21:27:43
+2024-11-30 21:27:43: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:27:43: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:27:43: Displaying routing table
+2024-11-30 21:27:43: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:27:43: Displaying hostname
+2024-11-30 21:27:43: Displaying hostname
+server
+server
+2024-11-30 21:27:43: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:27:43: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:27:43: DNS Server is reachable
+2024-11-30 21:27:43: Tracing route to google.com
+2024-11-30 21:27:43: DNS Server is reachable
+2024-11-30 21:27:43: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packetstraceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.751 ms  0.703 ms  0.662 ms
+ 1  _gateway (10.10.10.2)  0.129 ms  0.097 ms  0.077 ms
+ 2  10.128.0.1 (10.128.0.1)  209.258 ms  209.226 ms  209.179 ms
+ 2  10.128.0.1 (10.128.0.1)  207.559 ms  207.523 ms  207.559 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  207.547 ms  207.549 ms  207.538 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  209.144 ms  209.078 ms  209.039 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  209.060 ms  209.005 ms  208.971 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  208.283 ms  208.271 ms  208.259 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  208.247 ms  208.235 ms  208.223 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  208.935 ms  208.947 ms  208.908 ms
+ 6  72.14.210.144 (72.14.210.144)  209.985 ms
+ 6  185.65.134.51 (185.65.134.51)  208.807 ms  208.802 ms  208.923 ms 185.65.134.51 (185.65.134.51)  208.802 ms  209.000 ms
+ 7  *
+ 7  * * * * *
+ 8  ams17s12-in-f14.1e100.net (142.251.36.46)  208.834 ms
+ 8  ams17s12-in-f14.1e100.net (142.251.36.46)  207.357 ms 142.250.224.130 (142.250.224.130)  208.788 ms 142.251.48.174 (142.251.48.174)  207.305 ms 172.253.66.184 (172.253.66.184)  208.752 ms
+ 142.251.225.136 (142.251.225.136)  209.094 ms
+2024-11-30 21:27:43: Pinging google.com
+2024-11-30 21:27:43: Pinging google.com
+2024-11-30 21:27:43: Connectivity to google.com is ok
+2024-11-30 21:27:43: Connectivity to google.com is ok
+2024-11-30 21:27:43: Tracing route to 10.10.10.130
+2024-11-30 21:27:43: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packetstraceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3103.659 ms !H  3103.648 ms !H  3103.638 ms !H
+
+ 1  server (10.10.10.131)  3105.841 ms !H  3105.761 ms !H  3105.752 ms !H
+2024-11-30 21:27:43: Pinging 10.10.10.130
+2024-11-30 21:27:43: Pinging 10.10.10.130
+2024-11-30 21:27:43: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:27:43: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:28:00: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:28:03
+2024-11-30 21:28:03: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:28:03: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:28:03: Displaying hostname
+server
+2024-11-30 21:28:03: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:28:03: DNS Server is reachable
+2024-11-30 21:28:03: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.663 ms  0.643 ms  0.604 ms
+ 2  10.128.0.1 (10.128.0.1)  201.476 ms  201.434 ms  201.387 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  201.352 ms  201.311 ms  201.276 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  207.896 ms  207.859 ms  207.825 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  207.789 ms  207.748 ms  207.714 ms
+ 6  72.14.210.144 (72.14.210.144)  210.167 ms 185.65.134.51 (185.65.134.51)  206.495 ms 72.14.210.144 (72.14.210.144)  214.474 ms
+ 7  * * *
+ 8  142.251.225.136 (142.251.225.136)  207.534 ms 142.250.211.90 (142.250.211.90)  207.491 ms 142.251.255.38 (142.251.255.38)  207.446 ms
+ 9  142.251.66.239 (142.251.66.239)  207.399 ms  206.762 ms 74.125.242.188 (74.125.242.188)  207.333 ms
+10  ams17s12-in-f14.1e100.net (142.251.36.46)  206.640 ms  206.580 ms 108.170.237.171 (108.170.237.171)  208.574 ms
+2024-11-30 21:28:03: Pinging google.com
+2024-11-30 21:28:03: Connectivity to google.com is ok
+2024-11-30 21:28:03: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3094.496 ms !H  3094.379 ms !H  3094.370 ms !H
+2024-11-30 21:28:03: Pinging 10.10.10.130
+2024-11-30 21:28:03: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:36:12: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:36:15
+2024-11-30 21:36:15: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:36:15: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:36:15: Displaying hostname
+server
+2024-11-30 21:36:15: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:36:15: DNS Server is reachable
+2024-11-30 21:36:15: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.021 ms  0.964 ms  0.893 ms
+ 2  10.128.0.1 (10.128.0.1)  202.039 ms  201.969 ms  201.918 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  201.884 ms  201.837 ms  201.797 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  206.647 ms  206.552 ms  206.476 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  206.423 ms  206.328 ms  206.258 ms
+ 6  185.65.134.51 (185.65.134.51)  206.782 ms  206.786 ms 72.14.210.144 (72.14.210.144)  209.163 ms
+ 7  * * *
+ 8  172.253.66.184 (172.253.66.184)  206.566 ms 142.251.48.178 (142.251.48.178)  206.436 ms 142.250.224.130 (142.250.224.130)  206.361 ms
+ 9  192.178.251.80 (192.178.251.80)  207.273 ms 74.125.242.188 (74.125.242.188)  306.333 ms 74.125.243.116 (74.125.243.116)  306.367 ms
+10  108.170.238.129 (108.170.238.129)  306.315 ms 108.170.237.171 (108.170.237.171)  306.237 ms ams17s12-in-f14.1e100.net (142.251.36.46)  306.031 ms
+2024-11-30 21:36:15: Pinging google.com
+2024-11-30 21:36:15: Connectivity to google.com is ok
+2024-11-30 21:36:15: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3064.105 ms !H  3064.005 ms !H  3064.000 ms !H
+2024-11-30 21:36:15: Pinging 10.10.10.130
+2024-11-30 21:36:15: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:36:44: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:36:47
+2024-11-30 21:36:47: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:36:47: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:36:47: Displaying hostname
+server
+2024-11-30 21:36:47: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:36:47: DNS Server is reachable
+2024-11-30 21:36:47: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.983 ms  0.957 ms  0.908 ms
+ 2  10.128.0.1 (10.128.0.1)  202.574 ms  202.529 ms  202.485 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  202.443 ms  202.393 ms  202.354 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  208.680 ms  208.624 ms  208.539 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  208.464 ms  208.315 ms  208.223 ms
+ 6  185.65.134.51 (185.65.134.51)  208.176 ms  207.058 ms 72.14.210.144 (72.14.210.144)  208.322 ms
+ 7  * * *
+ 8  ams17s12-in-f14.1e100.net (142.251.36.46)  207.131 ms 142.250.224.132 (142.250.224.132)  207.849 ms ams17s12-in-f14.1e100.net (142.251.36.46)  207.033 ms
+2024-11-30 21:36:47: Pinging google.com
+2024-11-30 21:36:47: Connectivity to google.com is ok
+2024-11-30 21:36:47: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3066.192 ms !H  3065.899 ms !H  3065.890 ms !H
+2024-11-30 21:36:47: Pinging 10.10.10.130
+2024-11-30 21:36:47: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:37:03: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:37:06
+2024-11-30 21:37:06: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:37:06: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:37:06: Displaying hostname
+server
+2024-11-30 21:37:06: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:37:06: DNS Server is reachable
+2024-11-30 21:37:06: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.785 ms  0.723 ms  0.681 ms
+ 2  10.128.0.1 (10.128.0.1)  203.295 ms  203.248 ms  203.198 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  203.079 ms  203.047 ms  202.992 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  206.529 ms  206.488 ms  206.443 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  206.402 ms  206.364 ms  206.336 ms
+ 6  185.65.134.51 (185.65.134.51)  206.295 ms  208.360 ms 72.14.210.144 (72.14.210.144)  208.297 ms
+ 7  * * *
+ 8  142.251.255.40 (142.251.255.40)  210.260 ms 216.239.49.12 (216.239.49.12)  210.100 ms 142.251.48.176 (142.251.48.176)  210.047 ms
+ 9  192.178.251.80 (192.178.251.80)  209.998 ms 142.251.66.239 (142.251.66.239)  308.979 ms  308.906 ms
+10  ams17s12-in-f14.1e100.net (142.251.36.46)  308.831 ms  308.790 ms  308.736 ms
+2024-11-30 21:37:06: Pinging google.com
+2024-11-30 21:37:06: Connectivity to google.com is ok
+2024-11-30 21:37:06: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3078.386 ms !H  3078.259 ms !H  3078.256 ms !H
+2024-11-30 21:37:06: Pinging 10.10.10.130
+2024-11-30 21:37:06: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:37:50: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:37:53
+2024-11-30 21:37:53: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:37:53: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:37:53: Displaying hostname
+server
+2024-11-30 21:37:53: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:37:53: DNS Server is reachable
+2024-11-30 21:37:53: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.845 ms  0.800 ms  0.760 ms
+ 2  10.128.0.1 (10.128.0.1)  205.108 ms  205.071 ms  205.027 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  204.897 ms  204.848 ms  204.819 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  207.045 ms  207.018 ms  206.934 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  206.846 ms  206.779 ms  206.742 ms
+ 6  185.65.134.51 (185.65.134.51)  206.693 ms  207.098 ms  207.029 ms
+ 7  * * *
+ 8  142.251.255.40 (142.251.255.40)  207.567 ms 108.170.227.2 (108.170.227.2)  207.005 ms 172.253.71.198 (172.253.71.198)  206.950 ms
+ 9  72.14.236.226 (72.14.236.226)  206.891 ms  306.731 ms 74.125.243.116 (74.125.243.116)  306.648 ms
+10  ams17s12-in-f14.1e100.net (142.251.36.46)  306.598 ms  306.553 ms  306.507 ms
+2024-11-30 21:37:53: Pinging google.com
+2024-11-30 21:37:53: Connectivity to google.com is ok
+2024-11-30 21:37:53: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3058.876 ms !H  3058.785 ms !H  3058.774 ms !H
+2024-11-30 21:37:53: Pinging 10.10.10.130
+2024-11-30 21:37:53: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:38:16: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:39:06: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:39:10
+2024-11-30 21:39:10: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:39:10: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:39:10: Displaying hostname
+server
+2024-11-30 21:39:10: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:39:10: DNS Server is reachable
+2024-11-30 21:39:10: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.932 ms  0.868 ms  0.753 ms
+ 2  10.128.0.1 (10.128.0.1)  192.701 ms  192.618 ms  192.545 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  206.497 ms  206.458 ms  206.398 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  206.768 ms  206.704 ms  206.636 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  206.586 ms  206.546 ms  208.979 ms
+ 6  185.65.134.51 (185.65.134.51)  206.466 ms  207.062 ms 72.14.210.144 (72.14.210.144)  209.783 ms
+ 7  * * *
+ 8  142.251.48.180 (142.251.48.180)  252.611 ms 142.250.211.90 (142.250.211.90)  212.062 ms 142.251.225.136 (142.251.225.136)  211.956 ms
+ 9  142.251.66.241 (142.251.66.241)  211.695 ms 72.14.236.226 (72.14.236.226)  211.649 ms 74.125.243.116 (74.125.243.116)  211.586 ms
+10  ams17s12-in-f14.1e100.net (142.251.36.46)  211.550 ms  211.506 ms 216.239.42.213 (216.239.42.213)  211.511 ms
+2024-11-30 21:39:10: Pinging google.com
+2024-11-30 21:39:10: Connectivity to google.com is ok
+2024-11-30 21:39:10: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3082.248 ms !H  3081.891 ms !H  3081.870 ms !H
+2024-11-30 21:39:10: Pinging 10.10.10.130
+2024-11-30 21:39:10: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:39:33: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:39:36
+2024-11-30 21:39:36: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:39:36: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:39:36: Displaying hostname
+server
+2024-11-30 21:39:36: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:39:36: DNS Server is reachable
+2024-11-30 21:39:36: Tracing route to google.com
+traceroute to google.com (142.251.36.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.745 ms  0.701 ms  0.658 ms
+ 2  10.128.0.1 (10.128.0.1)  204.247 ms  204.172 ms  204.113 ms
+ 3  zur-ix1-cr1-v11.31173.se (193.32.127.65)  204.075 ms  204.007 ms  203.977 ms
+ 4  fra-eq5-cr1-et-0-0-2-v2051.31173.se (193.32.127.43)  220.008 ms  219.972 ms  219.941 ms
+ 5  ams-eq6-cr1-ae2-v2063.31173.se (185.65.134.20)  211.635 ms  211.589 ms  211.555 ms
+ 6  72.14.210.144 (72.14.210.144)  211.464 ms 185.65.134.51 (185.65.134.51)  306.295 ms  306.226 ms
+ 7  * * *
+ 8  142.250.224.130 (142.250.224.130)  306.407 ms 216.239.49.12 (216.239.49.12)  306.213 ms 172.253.66.186 (172.253.66.186)  306.147 ms
+ 9  142.251.66.239 (142.251.66.239)  306.102 ms 72.14.236.226 (72.14.236.226)  306.301 ms 74.125.242.188 (74.125.242.188)  306.226 ms
+10  ams17s12-in-f14.1e100.net (142.251.36.46)  306.186 ms 192.178.111.35 (192.178.111.35)  306.192 ms ams17s12-in-f14.1e100.net (142.251.36.46)  305.939 ms
+2024-11-30 21:39:36: Pinging google.com
+2024-11-30 21:39:36: Connectivity to google.com is ok
+2024-11-30 21:39:36: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3062.543 ms !H  3062.465 ms !H  3062.462 ms !H
+2024-11-30 21:39:36: Pinging 10.10.10.130
+2024-11-30 21:39:36: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:39:56: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:39:59
+2024-11-30 21:39:59: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:39:59: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:39:59: Displaying hostname
+server
+2024-11-30 21:39:59: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:39:59: DNS Server is reachable
+2024-11-30 21:39:59: Tracing route to google.com
+2024-11-30 21:39:59: Pinging google.com
+2024-11-30 21:39:59: Cannot reach google.com
+2024-11-30 21:39:59: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3057.265 ms !H  3056.610 ms !H  3056.597 ms !H
+2024-11-30 21:39:59: Pinging 10.10.10.130
+2024-11-30 21:39:59: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:43:10: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:43:13
+2024-11-30 21:43:13: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:43:13: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:43:13: Displaying hostname
+server
+2024-11-30 21:43:13: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:43:13: DNS Server is reachable
+2024-11-30 21:43:13: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.887 ms  0.821 ms  0.638 ms
+ 2  10.128.0.1 (10.128.0.1)  307.591 ms  307.536 ms  307.488 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  307.502 ms  307.465 ms  307.404 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  307.291 ms  307.304 ms  307.268 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  307.169 ms  307.128 ms  307.086 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  307.053 ms  303.954 ms  303.842 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  303.750 ms  306.596 ms  306.372 ms
+ 8  72.14.223.38 (72.14.223.38)  306.330 ms  306.290 ms  306.234 ms
+ 9  * * *
+10  arn09s22-in-f14.1e100.net (142.250.74.46)  306.026 ms  305.979 ms 142.251.48.40 (142.251.48.40)  305.900 ms
+2024-11-30 21:43:13: Pinging google.com
+2024-11-30 21:43:13: Connectivity to google.com is ok
+2024-11-30 21:43:13: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3056.142 ms !H  3056.062 ms !H  3056.053 ms !H
+2024-11-30 21:43:13: Pinging 10.10.10.130
+2024-11-30 21:43:13: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:43:35: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:43:38
+2024-11-30 21:43:38: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:43:38: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:43:38: Displaying hostname
+server
+2024-11-30 21:43:38: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:43:38: DNS Server is reachable
+2024-11-30 21:43:38: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.140 ms  0.065 ms  0.099 ms
+ 2  10.128.0.1 (10.128.0.1)  308.143 ms  308.087 ms  308.035 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  307.854 ms  307.842 ms  307.797 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  307.725 ms  307.643 ms  307.590 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  307.487 ms  307.400 ms  307.328 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  307.215 ms  252.300 ms  252.228 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  252.183 ms  306.649 ms  306.578 ms
+ 8  72.14.223.38 (72.14.223.38)  306.531 ms  306.475 ms  306.424 ms
+ 9  * * *
+10  142.251.48.44 (142.251.48.44)  306.215 ms arn09s22-in-f14.1e100.net (142.250.74.46)  306.158 ms 172.253.72.122 (172.253.72.122)  306.108 ms
+2024-11-30 21:43:38: Pinging google.com
+2024-11-30 21:43:38: Connectivity to google.com is ok
+2024-11-30 21:43:38: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3080.002 ms !H  3079.916 ms !H  3079.906 ms !H
+2024-11-30 21:43:38: Pinging 10.10.10.130
+2024-11-30 21:43:38: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:43:58: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:44:01
+2024-11-30 21:44:01: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:44:01: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:44:01: Displaying hostname
+server
+2024-11-30 21:44:01: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:44:01: DNS Server is reachable
+2024-11-30 21:44:01: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.726 ms  0.658 ms  0.611 ms
+ 2  10.128.0.1 (10.128.0.1)  216.807 ms  216.761 ms  216.721 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  226.925 ms  226.886 ms  226.840 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  226.810 ms  226.777 ms  226.714 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  216.430 ms  216.383 ms  216.345 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  216.273 ms  289.513 ms  289.458 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  289.395 ms  310.394 ms  310.175 ms
+ 8  72.14.223.38 (72.14.223.38)  310.122 ms  309.886 ms  309.749 ms
+ 9  * * *
+10  142.251.48.40 (142.251.48.40)  218.489 ms 142.251.48.38 (142.251.48.38)  218.447 ms 209.85.241.224 (209.85.241.224)  218.365 ms
+11  192.178.73.202 (192.178.73.202)  218.241 ms 192.178.80.156 (192.178.80.156)  218.162 ms 142.251.250.250 (142.251.250.250)  218.114 ms
+12  108.170.233.11 (108.170.233.11)  218.060 ms arn09s22-in-f14.1e100.net (142.250.74.46)  217.983 ms  302.820 ms
+2024-11-30 21:44:01: Pinging google.com
+2024-11-30 21:44:01: Connectivity to google.com is ok
+2024-11-30 21:44:01: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3077.569 ms !H  3077.463 ms !H  3077.456 ms !H
+2024-11-30 21:44:01: Pinging 10.10.10.130
+2024-11-30 21:44:01: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:44:55: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:44:55: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:44:58
+Connection with 10.10.10.130 is down at 2024-11-30 21:44:58
+2024-11-30 21:44:58: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:44:58: Displaying routing table
+2024-11-30 21:44:58: Starting traceroute diagnostics for 10.10.10.130
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:44:58: Displaying routing table
+2024-11-30 21:44:58: Displaying hostname
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+server
+2024-11-30 21:44:58: Displaying hostname
+server
+2024-11-30 21:44:58: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:44:58: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:44:58: DNS Server is reachable
+2024-11-30 21:44:58: DNS Server is reachable
+2024-11-30 21:44:58: Tracing route to google.com
+2024-11-30 21:44:58: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.129 ms  0.080 ms  0.072 ms
+ 1  _gateway (10.10.10.2)  0.763 ms  0.695 ms  0.659 ms
+ 2  10.128.0.1 (10.128.0.1)  211.413 ms  211.370 ms  211.294 ms
+ 2  10.128.0.1 (10.128.0.1)  212.540 ms  212.494 ms  212.454 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  326.770 ms  326.702 ms  326.634 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  327.995 ms  327.954 ms  327.915 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  230.623 ms  230.580 ms  230.506 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  231.875 ms  231.822 ms  231.781 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  210.896 ms  210.847 ms  210.797 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  212.132 ms  212.102 ms  212.021 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  217.192 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  214.094 ms  218.091 ms  218.066 ms  218.090 ms  217.965 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  218.051 ms  218.766 ms  218.736 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  217.916 ms  218.786 ms  218.620 ms
+ 8  72.14.223.38 (72.14.223.38)  218.652 ms  218.566 ms  218.552 ms
+ 8  72.14.223.38 (72.14.223.38)  218.576 ms  218.507 ms  218.455 ms
+ 9  *
+ 9  * * * * *
+10  108.170.233.40 (108.170.233.40)  410.015 ms
+10  108.170.233.40 (108.170.233.40)  409.597 ms 172.253.72.118 (172.253.72.118)  409.997 ms 142.251.236.72 (142.251.236.72)  409.981 ms 142.251.236.72 (142.251.236.72)  409.452 ms
+11  arn09s22-in-f14.1e100.net (142.250.74.46)  409.965 ms  409.949 ms 142.251.65.82 (142.251.65.82)  409.372 ms
+11  142.251.250.250 (142.251.250.250)  409.252 ms 192.178.73.202 (192.178.73.202)  306.152 ms
+ 192.178.73.202 (192.178.73.202)  409.234 ms2024-11-30 21:44:58: Pinging google.com
+ 142.251.250.54 (142.251.250.54)  306.231 ms
+12  142.251.248.123 (142.251.248.123)  306.073 ms arn09s22-in-f14.1e100.net (142.250.74.46)  305.823 ms  305.764 ms
+2024-11-30 21:44:58: Pinging google.com
+2024-11-30 21:44:58: Connectivity to google.com is ok
+2024-11-30 21:44:58: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 21:44:58: Connectivity to google.com is ok
+2024-11-30 21:44:58: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  2765.457 ms !H  2765.438 ms !H  2765.430 ms !H
+
+ 1  server (10.10.10.131)  3100.648 ms !H  3100.549 ms !H  3100.544 ms !H
+2024-11-30 21:44:58: Pinging 10.10.10.130
+2024-11-30 21:44:58: Pinging 10.10.10.130
+2024-11-30 21:44:58: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:44:58: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:45:23: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:45:23: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:45:26
+Connection with 10.10.10.130 is down at 2024-11-30 21:45:26
+2024-11-30 21:45:26: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:45:26: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:45:26: Displaying routing table
+2024-11-30 21:45:26: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:45:26: Displaying hostname
+2024-11-30 21:45:26: Displaying hostname
+server
+server
+2024-11-30 21:45:26: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:45:26: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:45:26: DNS Server is reachable
+2024-11-30 21:45:26: DNS Server is reachable
+2024-11-30 21:45:26: Tracing route to google.com
+2024-11-30 21:45:26: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.276 ms  0.232 ms  0.190 ms
+ 1  _gateway (10.10.10.2)  0.809 ms  0.740 ms  0.699 ms
+ 2  10.128.0.1 (10.128.0.1)  305.299 ms  305.256 ms  305.218 ms
+ 2  10.128.0.1 (10.128.0.1)  306.451 ms  306.415 ms  306.363 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.248 ms  305.201 ms  305.191 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  306.353 ms  306.309 ms  306.265 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  306.249 ms  306.204 ms  306.159 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  305.177 ms  305.154 ms  305.115 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.011 ms  304.996 ms  304.983 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  306.045 ms  305.989 ms  305.972 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  305.880 ms  306.358 ms  306.302 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.971 ms  306.156 ms  306.061 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.801 ms  307.026 ms  307.004 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.229 ms  307.026 ms  306.882 ms
+ 8  72.14.223.38 (72.14.223.38)  306.989 ms  306.898 ms  306.702 ms
+ 8  72.14.223.38 (72.14.223.38)  306.865 ms  306.891 ms  306.876 ms
+ 9  * * *
+ 9  * * *
+10  142.251.48.42 (142.251.48.42)  306.561 ms arn09s22-in-f14.1e100.net (142.250.74.46)  306.482 ms 209.85.242.82 (209.85.242.82)  306.461 ms
+2024-11-30 21:45:26: Pinging google.com
+2024-11-30 21:45:26: Connectivity to google.com is ok
+2024-11-30 21:45:26: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+10  172.253.72.122 (172.253.72.122)  306.818 ms 142.251.48.38 (142.251.48.38)  306.830 ms 209.85.246.56 (209.85.246.56)  306.803 ms
+11  142.251.250.54 (142.251.250.54)  306.790 ms 142.250.239.183 (142.250.239.183)  306.760 ms 192.178.73.202 (192.178.73.202)  254.375 ms
+ 1  server (10.10.10.131)  3074.020 ms !H  3073.921 ms !H  3073.912 ms !H
+2024-11-30 21:45:26: Pinging 10.10.10.130
+
+12  142.251.248.233 (142.251.248.233)  254.356 ms 108.170.233.11 (108.170.233.11)  254.340 ms arn09s22-in-f14.1e100.net (142.250.74.46)  256.862 ms
+2024-11-30 21:45:26: Pinging google.com
+2024-11-30 21:45:26: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:45:26: Connectivity to google.com is ok
+2024-11-30 21:45:26: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 21:45:46: Connectivity with 10.10.10.129 is ok
+
+ 1  server (10.10.10.131)  3069.453 ms !H  3069.281 ms !H  3069.268 ms !H
+2024-11-30 21:45:26: Pinging 10.10.10.130
+2024-11-30 21:45:26: Cannot reach 10.10.10.130. Rebooting the system...
+Connection with 10.10.10.130 is down at 2024-11-30 21:45:51
+2024-11-30 21:45:51: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:45:51: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:45:51: Displaying hostname
+server
+2024-11-30 21:45:51: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:45:51: DNS Server is reachable
+2024-11-30 21:45:53: Connectivity with 10.10.10.129 is ok
+2024-11-30 21:45:51: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.122 ms  0.068 ms  0.130 ms
+ 2  10.128.0.1 (10.128.0.1)  303.371 ms  303.337 ms  303.263 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  303.218 ms  303.183 ms  303.235 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  303.169 ms  303.024 ms  302.973 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  302.838 ms  302.777 ms  302.702 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  302.729 ms  305.808 ms  305.734 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.689 ms  219.748 ms  219.687 ms
+ 8  72.14.223.38 (72.14.223.38)  219.649 ms  219.613 ms  219.575 msConnection with 10.10.10.130 is down at 2024-11-30 21:45:56
+2024-11-30 21:45:56: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:45:56: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:45:56: Displaying hostname
+server
+2024-11-30 21:45:56: Testing local DNS Server: 127.0.0.53
+
+ 9  * * *
+10  arn09s22-in-f14.1e100.net (142.250.74.46)  219.343 ms  219.278 ms 209.85.241.224 (209.85.241.224)  219.240 ms
+2024-11-30 21:45:51: Pinging google.com
+2024-11-30 21:45:56: DNS Server is reachable
+2024-11-30 21:45:56: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.162 ms  0.080 ms  0.059 ms
+ 2  10.128.0.1 (10.128.0.1)  367.000 ms  366.949 ms  366.915 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  366.990 ms  366.954 ms  366.867 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  366.687 ms  366.651 ms  366.747 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  366.583 ms  366.546 ms  366.510 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  366.606 ms  304.041 ms  303.972 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  303.914 ms2024-11-30 21:46:15: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:46:18
+2024-11-30 21:46:18: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:46:18: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:46:18: Displaying hostname
+server
+2024-11-30 21:46:18: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:46:18: DNS Server is reachable
+2024-11-30 21:46:18: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.851 ms  0.784 ms  0.732 ms
+ 2  10.128.0.1 (10.128.0.1)  305.767 ms  305.725 ms  305.607 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.611 ms  305.565 ms  305.521 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  305.425 ms  305.422 ms  305.375 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.294 ms  305.235 ms  305.192 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  305.140 ms  306.628 ms  306.553 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.496 ms  305.910 ms  305.805 ms
+ 8  72.14.223.38 (72.14.223.38)  305.112 ms  305.053 ms  305.020 ms
+ 9  * * *
+10  142.251.48.44 (142.251.48.44)  304.820 ms 142.251.65.80 (142.251.65.80)  304.795 ms 142.251.236.72 (142.251.236.72)  304.705 ms
+11  142.250.239.183 (142.250.239.183)  304.652 ms 142.251.250.54 (142.251.250.54)  304.639 ms arn09s22-in-f14.1e100.net (142.250.74.46)  306.906 ms
+2024-11-30 21:46:18: Pinging google.com
+2024-11-30 21:46:18: Connectivity to google.com is ok
+2024-11-30 21:46:18: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3085.630 ms !H  3085.535 ms !H  3085.383 ms !H
+2024-11-30 21:46:18: Pinging 10.10.10.130
+2024-11-30 21:46:18: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:46:38: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:46:41
+2024-11-30 21:46:41: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:46:41: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:46:41: Displaying hostname
+server
+2024-11-30 21:46:41: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:46:41: DNS Server is reachable
+2024-11-30 21:46:41: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.062 ms  0.954 ms  0.892 ms
+ 2  10.128.0.1 (10.128.0.1)  306.384 ms  306.307 ms  306.262 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  306.258 ms  306.212 ms  306.169 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  306.087 ms  306.011 ms  305.997 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.900 ms  305.801 ms  305.751 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  305.701 ms  306.755 ms  306.675 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.635 ms  309.041 ms  308.982 ms
+ 8  72.14.223.38 (72.14.223.38)  308.799 ms  308.737 ms  308.680 ms
+ 9  * * *
+10  142.251.48.38 (142.251.48.38)  308.562 ms 142.251.236.72 (142.251.236.72)  308.479 ms 142.251.48.44 (142.251.48.44)  308.426 ms
+11  142.250.239.183 (142.250.239.183)  308.341 ms 192.178.80.156 (192.178.80.156)  308.328 ms 142.250.239.183 (142.250.239.183)  304.256 ms
+12  arn09s22-in-f14.1e100.net (142.250.74.46)  304.193 ms  304.157 ms  306.111 ms
+2024-11-30 21:46:41: Pinging google.com
+2024-11-30 21:46:41: Connectivity to google.com is ok
+2024-11-30 21:46:41: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3086.568 ms !H  3086.434 ms !H  3086.425 ms !H
+2024-11-30 21:46:41: Pinging 10.10.10.130
+2024-11-30 21:51:26: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:51:29
+2024-11-30 21:51:29: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:51:29: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:51:29: Displaying hostname
+server
+2024-11-30 21:51:29: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:51:29: DNS Server is reachable
+2024-11-30 21:51:29: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.990 ms  0.840 ms  0.730 ms
+ 2  10.128.0.1 (10.128.0.1)  306.265 ms  306.208 ms  306.147 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  306.146 ms  306.113 ms  306.013 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  305.895 ms  305.902 ms  305.866 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.781 ms  305.741 ms  305.698 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  305.664 ms  305.612 ms  305.539 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.394 ms  409.468 ms  409.398 ms
+ 8  72.14.223.38 (72.14.223.38)  409.253 ms  409.198 ms  409.124 ms
+ 9  * * *
+10  142.251.65.80 (142.251.65.80)  408.858 ms 142.251.236.72 (142.251.236.72)  408.818 ms arn09s22-in-f14.1e100.net (142.250.74.46)  408.772 ms
+2024-11-30 21:51:29: Pinging google.com
+2024-11-30 21:51:29: Connectivity to google.com is ok
+2024-11-30 21:51:29: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3113.431 ms !H  3113.340 ms !H  3113.331 ms !H
+2024-11-30 21:51:29: Pinging 10.10.10.130
+2024-11-30 21:51:29: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:51:50: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:51:53
+2024-11-30 21:51:53: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:51:53: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:51:53: Displaying hostname
+server
+2024-11-30 21:51:53: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:51:53: DNS Server is reachable
+2024-11-30 21:51:53: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  1.312 ms  1.235 ms  1.188 ms
+ 2  10.128.0.1 (10.128.0.1)  309.163 ms  308.888 ms  308.833 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  308.776 ms  308.798 ms  308.755 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  308.702 ms  308.540 ms  308.437 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  308.304 ms  308.194 ms  308.131 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  308.089 ms  302.722 ms  302.605 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  302.564 ms  307.175 ms  307.106 ms
+ 8  72.14.223.38 (72.14.223.38)  307.054 ms  307.019 ms  306.921 ms
+ 9  * * *
+10  142.251.236.72 (142.251.236.72)  306.731 ms 142.251.48.44 (142.251.48.44)  307.355 ms 142.251.48.42 (142.251.48.42)  307.307 ms
+11  142.250.239.185 (142.250.239.185)  307.260 ms 192.178.80.156 (192.178.80.156)  307.179 ms 192.178.73.202 (192.178.73.202)  306.624 ms
+12  142.251.248.233 (142.251.248.233)  306.529 ms arn09s22-in-f14.1e100.net (142.250.74.46)  306.485 ms  304.649 ms
+2024-11-30 21:51:53: Pinging google.com
+2024-11-30 21:51:53: Connectivity to google.com is ok
+2024-11-30 21:51:53: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3054.314 ms !H  3054.223 ms !H  3054.220 ms !H
+2024-11-30 21:51:53: Pinging 10.10.10.130
+2024-11-30 21:51:53: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 21:52:19: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 21:52:22
+2024-11-30 21:52:22: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 21:52:22: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 21:52:22: Displaying hostname
+server
+2024-11-30 21:52:22: Testing local DNS Server: 127.0.0.53
+2024-11-30 21:52:22: DNS Server is reachable
+2024-11-30 21:52:22: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.986 ms  0.904 ms  0.840 ms
+ 2  10.128.0.1 (10.128.0.1)  307.232 ms  307.170 ms  307.110 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  307.131 ms  307.080 ms  307.035 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  306.917 ms  306.874 ms  306.899 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  306.761 ms  306.718 ms  306.681 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  306.700 ms  305.726 ms  305.595 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.545 ms  305.644 ms  305.542 ms
+ 8  72.14.223.38 (72.14.223.38)  305.432 ms  305.383 ms  305.331 ms
+ 9  * * *
+10  142.251.48.42 (142.251.48.42)  305.022 ms 142.251.65.80 (142.251.65.80)  304.982 ms 209.85.242.10 (209.85.242.10)  304.945 ms
+11  142.251.250.54 (142.251.250.54)  304.909 ms 142.251.250.250 (142.251.250.250)  304.696 ms arn09s22-in-f14.1e100.net (142.250.74.46)  306.797 ms
+2024-11-30 21:52:22: Pinging google.com
+2024-11-30 21:52:22: Connectivity to google.com is ok
+2024-11-30 21:52:22: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3107.788 ms !H  3107.691 ms !H  3107.683 ms !H
+2024-11-30 21:52:22: Pinging 10.10.10.130
+2024-11-30 21:52:22: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:05:16: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:05:19
+2024-11-30 22:05:19: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:05:19: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:05:19: Displaying hostname
+server
+2024-11-30 22:05:19: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:05:19: DNS Server is reachable
+2024-11-30 22:05:19: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.097 ms  0.057 ms  0.054 ms
+ 2  10.128.0.1 (10.128.0.1)  304.533 ms  304.503 ms  304.457 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  304.446 ms  304.410 ms  304.373 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  304.311 ms  304.291 ms  304.245 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  304.183 ms  304.140 ms  304.060 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  303.980 ms  234.214 ms  234.021 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  233.931 ms  306.163 ms  306.058 ms
+ 8  72.14.223.38 (72.14.223.38)  305.997 ms  305.945 ms  305.897 ms
+ 9  * * *
+10  209.85.242.10 (209.85.242.10)  305.621 ms 142.251.236.72 (142.251.236.72)  305.565 ms arn09s22-in-f14.1e100.net (142.250.74.46)  305.485 ms
+2024-11-30 22:05:19: Pinging google.com
+2024-11-30 22:05:19: Connectivity to google.com is ok
+2024-11-30 22:05:19: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3068.272 ms !H  3068.207 ms !H  3068.198 ms !H
+2024-11-30 22:05:19: Pinging 10.10.10.130
+2024-11-30 22:05:19: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:05:41: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:05:44
+2024-11-30 22:05:44: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:05:44: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:05:44: Displaying hostname
+server
+2024-11-30 22:05:44: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:05:44: DNS Server is reachable
+2024-11-30 22:05:44: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.127 ms  0.103 ms  0.046 ms
+ 2  10.128.0.1 (10.128.0.1)  302.090 ms  302.028 ms  301.993 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  301.987 ms  301.953 ms  301.918 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  301.847 ms  301.795 ms  301.790 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  301.719 ms  301.650 ms  301.609 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  301.602 ms  306.348 ms  306.231 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.171 ms  217.965 ms  217.840 ms
+ 8  72.14.223.38 (72.14.223.38)  217.788 ms  217.741 ms  217.642 ms
+ 9  * * *
+10  209.85.241.28 (209.85.241.28)  217.381 ms 209.85.242.10 (209.85.242.10)  217.337 ms 209.85.241.224 (209.85.241.224)  217.326 ms
+11  192.178.80.156 (192.178.80.156)  217.269 ms arn09s22-in-f14.1e100.net (142.250.74.46)  217.165 ms 142.251.250.250 (142.251.250.250)  304.899 ms
+2024-11-30 22:05:44: Pinging google.com
+2024-11-30 22:05:44: Connectivity to google.com is ok
+2024-11-30 22:05:44: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3057.740 ms !H  3057.640 ms !H  3057.631 ms !H
+2024-11-30 22:05:44: Pinging 10.10.10.130
+2024-11-30 22:05:44: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:06:09: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:06:12
+2024-11-30 22:06:12: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:06:12: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:06:12: Displaying hostname
+server
+2024-11-30 22:06:12: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:06:12: DNS Server is reachable
+2024-11-30 22:06:12: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.125 ms  0.128 ms  0.076 ms
+ 2  10.128.0.1 (10.128.0.1)  305.536 ms  305.489 ms  305.444 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.397 ms  305.372 ms  305.327 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  409.683 ms  409.640 ms  409.599 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.122 ms  305.076 ms  305.030 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.986 ms  306.270 ms  306.187 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.138 ms  218.542 ms  218.473 ms
+ 8  72.14.223.38 (72.14.223.38)  218.425 ms  218.379 ms  218.335 ms
+ 9  * * *
+10  209.85.241.28 (209.85.241.28)  218.042 ms 108.170.233.40 (108.170.233.40)  218.741 ms 209.85.246.56 (209.85.246.56)  307.043 ms
+11  arn09s22-in-f14.1e100.net (142.250.74.46)  306.874 ms  306.823 ms 192.178.80.156 (192.178.80.156)  306.776 ms
+2024-11-30 22:06:12: Pinging google.com
+2024-11-30 22:06:12: Connectivity to google.com is ok
+2024-11-30 22:06:12: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3094.221 ms !H  3094.096 ms !H  3094.086 ms !H
+2024-11-30 22:06:12: Pinging 10.10.10.130
+2024-11-30 22:06:12: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:07:38: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:07:41
+2024-11-30 22:07:41: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:07:41: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:07:41: Displaying hostname
+server
+2024-11-30 22:07:41: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:07:41: DNS Server is reachable
+2024-11-30 22:07:41: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.961 ms  0.904 ms  0.824 ms
+ 2  10.128.0.1 (10.128.0.1)  305.300 ms  305.251 ms  305.115 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.073 ms  305.021 ms  304.998 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  304.907 ms  304.859 ms  304.790 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  304.706 ms  304.669 ms  304.631 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.638 ms  306.119 ms  305.932 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.798 ms  304.070 ms  303.981 ms
+ 8  72.14.223.38 (72.14.223.38)  303.921 ms  303.795 ms  303.745 ms
+ 9  * * *
+10  209.85.246.56 (209.85.246.56)  303.561 ms 209.85.246.26 (209.85.246.26)  303.557 ms arn09s22-in-f14.1e100.net (142.250.74.46)  303.479 ms
+2024-11-30 22:07:41: Pinging google.com
+2024-11-30 22:07:41: Connectivity to google.com is ok
+2024-11-30 22:07:41: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 22:09:00: Connectivity with 10.10.10.129 is ok
+2024-11-30 22:09:01: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:03
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:03
+2024-11-30 22:09:03: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:09:03: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:09:03: Displaying routing table
+2024-11-30 22:09:03: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:09:03: Displaying hostname
+2024-11-30 22:09:03: Displaying hostname
+server
+server
+2024-11-30 22:09:03: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:03: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:03: DNS Server is reachable
+2024-11-30 22:09:03: DNS Server is reachable
+2024-11-30 22:09:03: Tracing route to google.com
+2024-11-30 22:09:03: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.403 ms  0.270 ms  0.241 ms
+ 1  _gateway (10.10.10.2)  1.165 ms  1.154 ms  1.143 ms
+ 2  10.128.0.1 (10.128.0.1)  307.097 ms  307.060 ms  307.048 ms
+ 2  10.128.0.1 (10.128.0.1)  307.121 ms  306.835 ms  306.854 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  306.958 ms  306.946 ms  306.905 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  307.222 ms  307.210 ms  307.229 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  306.929 ms  306.831 ms  306.747 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  307.340 ms  307.327 ms  307.315 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  306.457 ms  306.387 ms  306.360 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  307.024 ms  307.054 ms  306.998 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  306.341 ms  305.888 ms  305.868 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  307.058 ms  305.889 ms  305.758 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.855 ms  308.422 ms  308.055 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  305.718 ms  308.362 ms  308.340 ms
+ 8  72.14.223.38 (72.14.223.38)  307.880 ms  307.836 ms  307.789 ms
+ 8  72.14.223.38 (72.14.223.38)  308.197 ms  308.179 ms  308.158 ms
+ 9  * * *
+ 9  * * *
+10  108.170.233.40 (108.170.233.40)  307.699 ms 142.251.48.40 (142.251.48.40)  307.681 ms 209.85.242.98 (209.85.242.98)  307.627 ms
+11  192.178.73.202 (192.178.73.202)  307.560 ms  307.509 ms arn09s22-in-f14.1e100.net (142.250.74.46)  305.139 ms
+2024-11-30 22:09:03: Pinging google.com
+2024-11-30 22:09:03: Connectivity to google.com is ok
+2024-11-30 22:09:03: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+10  209.85.242.10 (209.85.242.10)  308.172 ms arn09s22-in-f14.1e100.net (142.250.74.46)  308.066 ms  308.134 ms
+2024-11-30 22:09:03: Pinging google.com
+2024-11-30 22:09:03: Connectivity to google.com is ok
+2024-11-30 22:09:03: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3089.535 ms !H  3089.433 ms !H  3089.430 ms !H
+
+ 1  server (10.10.10.131)  115.687 ms !H  115.665 ms !H  115.660 ms !H
+2024-11-30 22:09:03: Pinging 10.10.10.130
+2024-11-30 22:09:03: Pinging 10.10.10.130
+2024-11-30 22:09:03: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:09:03: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:09:24: Connectivity with 10.10.10.129 is ok
+2024-11-30 22:09:24: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:27
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:27
+2024-11-30 22:09:27: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:09:27: Displaying routing table
+2024-11-30 22:09:27: Starting traceroute diagnostics for 10.10.10.130
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:09:27: Displaying hostname
+2024-11-30 22:09:27: Displaying routing table
+server
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:09:27: Displaying hostname
+server
+2024-11-30 22:09:27: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:27: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:27: DNS Server is reachable
+2024-11-30 22:09:27: DNS Server is reachable
+2024-11-30 22:09:27: Tracing route to google.com
+2024-11-30 22:09:27: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.120 ms  0.079 ms  0.080 ms
+ 1  _gateway (10.10.10.2)  0.100 ms  0.076 ms  0.090 ms
+ 2  10.128.0.1 (10.128.0.1)  304.257 ms
+ 2  10.128.0.1 (10.128.0.1)  305.345 ms  305.297 ms  305.244 ms  304.188 ms  304.140 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  304.213 ms  304.179 ms  304.154 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.275 ms  305.229 ms  305.209 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  305.089 ms  305.064 ms  305.014 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  304.066 ms  303.927 ms  303.889 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  303.791 ms  302.752 ms  302.706 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  304.924 ms  304.890 ms  304.870 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.827 ms  306.956 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  302.688 ms  306.498 ms  306.439 ms  306.902 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.864 ms  303.247 ms  303.193 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.394 ms  302.527 ms  309.429 ms
+ 8  72.14.223.38 (72.14.223.38)  310.135 ms  303.101 ms  303.052 ms
+ 8  72.14.223.38 (72.14.223.38)  309.380 ms  309.344 ms  309.309 ms
+ 9  * * *
+ 9  * * *
+10  209.85.242.10 (209.85.242.10)  309.874 ms
+10  209.85.241.224 (209.85.241.224)  309.194 ms 209.85.242.98 (209.85.242.98)  309.839 ms 209.85.246.56 (209.85.246.56)  309.139 ms 142.251.65.80 (142.251.65.80)  309.857 ms arn09s22-in-f14.1e100.net (142.250.74.46)  309.108 ms
+2024-11-30 22:09:27: Pinging google.com
+
+11  142.251.250.54 (142.251.250.54)  309.817 ms 142.250.239.183 (142.250.239.183)  309.721 ms 142.251.250.250 (142.251.250.250)  308.401 ms
+12  142.251.248.123 (142.251.248.123)  308.341 ms 142.250.56.93 (142.250.56.93)  308.351 ms 142.251.248.123 (142.251.248.123)  308.228 ms
+13  arn09s22-in-f14.1e100.net (142.250.74.46)  308.187 ms 142.250.239.183 (142.250.239.183)  308.093 ms  308.051 ms
+2024-11-30 22:09:27: Pinging google.com
+2024-11-30 22:09:27: Connectivity to google.com is ok
+2024-11-30 22:09:27: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets2024-11-30 22:09:27: Connectivity to google.com is ok
+2024-11-30 22:09:27: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  1001.786 ms !H  1001.763 ms !H  1001.756 ms !H
+
+ 1  server (10.10.10.131)  3066.693 ms !H  3066.616 ms !H  3066.612 ms !H
+2024-11-30 22:09:27: Pinging 10.10.10.130
+2024-11-30 22:09:27: Pinging 10.10.10.130
+2024-11-30 22:09:27: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:09:27: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:09:46: Connectivity with 10.10.10.129 is ok
+2024-11-30 22:09:46: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:49
+Connection with 10.10.10.130 is down at 2024-11-30 22:09:49
+2024-11-30 22:09:49: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:09:49: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:09:49: Displaying routing table
+2024-11-30 22:09:49: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:09:49: Displaying hostname
+2024-11-30 22:09:49: Displaying hostname
+server
+server
+2024-11-30 22:09:49: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:49: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:09:49: DNS Server is reachable
+2024-11-30 22:09:49: DNS Server is reachable
+2024-11-30 22:09:49: Tracing route to google.com
+2024-11-30 22:09:49: Tracing route to google.com
+traceroute to google.com (142.250.74.46), 30 hops max, 60 byte packetstraceroute to google.com (142.250.74.46), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  0.077 ms  0.288 ms  0.269 ms
+ 1  _gateway (10.10.10.2)  0.296 ms  0.293 ms  0.126 ms
+ 2  10.128.0.1 (10.128.0.1)  305.138 ms  305.126 ms  305.112 ms
+ 2  10.128.0.1 (10.128.0.1)  305.249 ms  305.233 ms  305.170 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.006 ms  304.918 ms  304.869 ms
+ 3  mlm-sg-r03-dr1-v410.31173.se (193.138.218.125)  305.173 ms  305.161 ms  305.147 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  305.114 ms  305.102 ms  305.089 ms
+ 4  mlm-sg-dr1-et-0-0-48.31173.se (193.138.216.136)  304.788 ms  304.753 ms  304.717 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  305.076 ms  305.063 ms  305.071 ms
+ 5  mlm-sp-cr1-ae1.31173.se (193.138.216.90)  304.694 ms  304.679 ms  304.639 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.529 ms
+ 6  mlm-vg4-cr2-et-0-0-3-v2019.31173.se (193.138.216.75)  304.986 ms  306.923 ms  306.922 ms  306.841 ms  372.899 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  306.805 ms  372.925 ms  372.652 ms
+ 7  sto-vb-cr1-et-0-0-2-v2017.31173.se (185.65.135.44)  372.879 ms  372.863 ms  372.847 ms
+ 8  72.14.223.38 (72.14.223.38)  372.717 ms  372.671 ms  372.614 ms
+ 8  72.14.223.38 (72.14.223.38)  372.831 ms  372.894 ms  372.879 ms
+ 9  * * *
+ 9  * * *
+10  209.85.242.82 (209.85.242.82)  372.841 ms 209.85.242.10 (209.85.242.10)  372.801 ms
+10  209.85.246.26 (209.85.246.26)  372.487 ms  372.453 ms 209.85.246.26 (209.85.246.26)  372.810 ms 209.85.242.98 (209.85.242.98)  372.341 ms
+11  arn09s22-in-f14.1e100.net (142.250.74.46)  372.655 ms
+11  192.178.73.202 (192.178.73.202)  372.301 ms 192.178.73.202 (192.178.73.202)  372.666 ms arn09s22-in-f14.1e100.net (142.250.74.46)  372.628 ms
+2024-11-30 22:09:49: Pinging google.com
+ 142.251.250.54 (142.251.250.54)  372.227 ms arn09s22-in-f14.1e100.net (142.250.74.46)  239.666 ms
+2024-11-30 22:09:49: Pinging google.com
+2024-11-30 22:09:49: Connectivity to google.com is ok
+2024-11-30 22:09:49: Connectivity to google.com is ok
+2024-11-30 22:09:49: Tracing route to 10.10.10.130
+2024-11-30 22:09:49: Tracing route to 10.10.10.130
+traceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packetstraceroute to 10.10.10.130 (10.10.10.130), 30 hops max, 60 byte packets
+ 1  server (10.10.10.131)  3101.827 ms !H  3096.238 ms !H  3096.229 ms !H
+
+ 1  server (10.10.10.131)  3100.733 ms !H  3096.443 ms !H  3096.429 ms !H
+2024-11-30 22:09:49: Pinging 10.10.10.130
+2024-11-30 22:09:49: Pinging 10.10.10.130
+2024-11-30 22:09:49: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:09:49: Cannot reach 10.10.10.130. Rebooting the system...
+2024-11-30 22:27:20: Connectivity with 10.10.10.129 is ok
+Connection with 10.10.10.130 is down at 2024-11-30 22:27:23
+2024-11-30 22:27:23: Starting traceroute diagnostics for 10.10.10.130
+2024-11-30 22:27:23: Displaying routing table
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.10.10.2      0.0.0.0         UG    100    0        0 ens33
+10.10.10.0      0.0.0.0         255.255.255.0   U     100    0        0 ens33
+2024-11-30 22:27:23: Displaying hostname
+server
+2024-11-30 22:27:23: Testing local DNS Server: 127.0.0.53
+2024-11-30 22:27:23: DNS Server is reachable
+2024-11-30 22:27:23: Tracing route to google.com
+traceroute to google.com (142.250.74.174), 30 hops max, 60 byte packets
+ 1  _gateway (10.10.10.2)  8.099 ms  7.990 ms  0.195 ms
+ 2  10.128.0.1 (10.128.0.1)  246.871 ms  246.782 ms  246.708 ms
+ 3  gbg-shg-cr2-v11.31173.se (185.213.154.65)  246.698 ms  246.658 ms  246.611 ms
+ 4  sto-vb-cr1-et-0-0-2-v2025.31173.se (185.65.135.46)  246.550 ms  246.431 ms  246.373 ms
+ 5  72.14.223.38 (72.14.223.38)  246.314 ms  246.266 ms  246.238 ms
+ 6  * * *
+ 7  142.251.48.42 (142.251.48.42)  254.630 ms 142.250.239.184 (142.250.239.184)  308.265 ms 142.251.48.44 (142.251.48.44)  308.212 ms
+ 8  142.251.236.71 (142.251.236.71)  308.141 ms  308.108 ms

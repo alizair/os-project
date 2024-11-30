@@ -1,54 +1,60 @@
 package model;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import java.io.*;
 import java.net.Socket;
-import java.util.Date;
 
 public class ServerService implements Runnable {
-	
-	Socket nextClient;
-	
-	public ServerService(Socket nextClient) {
-		this.nextClient = nextClient;
-	}
-	
-	public void run() {
-		try {
-			// Display connection details
-			System.out.println("Receiving Request From " + 
-			nextClient.getInetAddress() + ":" +
-			nextClient.getPort());
-			ProcessBuilder processBuilder = new ProcessBuilder();
-			ProcessBuilder processBuilder2;
-			processBuilder.command("./network.sh", "10.10.10.129", "10.10.10.130");
-			processBuilder.start();
-			BufferedReader reader = new BufferedReader(new InputStreamReader(nextClient.getInputStream()));
-			String input = reader.readLine();
-			if (input.equalsIgnoreCase("SYSINFO")) {
-				processBuilder2 = new ProcessBuilder("./system.sh");
-				File outputFile = new File("system_info.txt");
-				processBuilder2.redirectOutput(outputFile);
-				Process process = processBuilder2.start();
-				int exitCode = process.waitFor();
-				if (exitCode == 0) {
-					System.out.println("Script executed successfully. Output saved to system_info.txt");
-		        } else {
-		        	System.out.println("Script execution failed. Exit code: " + exitCode);
-		        }
-				PrintWriter output = new PrintWriter(nextClient.getOutputStream(), true);
-				output.println(outputFile);
-			}
-			nextClient.close();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}		
-	}
+    private final Socket nextClient;
 
+    public ServerService(Socket nextClient) {
+        this.nextClient = nextClient;
+    }
+
+    @Override
+    public void run() {
+        try {
+        	System.out.println("Connected to client: " +
+                    nextClient.getInetAddress() + ":" + nextClient.getPort());            
+            BufferedReader reader = new BufferedReader(new InputStreamReader(nextClient.getInputStream()));
+            PrintWriter pw = new PrintWriter(nextClient.getOutputStream(), true);
+
+            String command;
+            while  (!nextClient.isClosed() && (command = reader.readLine()) != null) {
+                Server.logClientRequest(nextClient.getInetAddress() + ":" + nextClient.getPort(), command);
+                if (command.equalsIgnoreCase("exit")) {
+                    System.out.println("Client disconnected.");
+                    break;
+                }
+                
+                if (command.equalsIgnoreCase("SYSINFO")) {
+                    File outputFile = new File("system_info.txt");
+                    ProcessBuilder processBuilder = new ProcessBuilder("./system.sh");
+                    processBuilder.redirectOutput(outputFile);
+                    Process process = processBuilder.start();
+                    process.waitFor();
+                    
+                    long fileSize = outputFile.length();
+                    pw.println(outputFile.getName() + ":" + fileSize);
+                                        
+                    try (BufferedInputStream fromFile = new BufferedInputStream(new FileInputStream(outputFile));
+                        OutputStream toClient = nextClient.getOutputStream()) {
+                        byte[] buffer = new byte[4096];
+                        int bytesRead;
+                        while ((bytesRead = fromFile.read(buffer)) != -1) {
+                            toClient.write(buffer, 0, bytesRead);
+                        }
+                        toClient.flush();
+                    }
+                } else {
+                    pw.println(command + ": command not found");
+                }
+                Server.displayClientRequests();
+            }
+            nextClient.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
-

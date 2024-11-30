@@ -1,0 +1,1122 @@
+Listing the files, directories, subdirectories in the user's home directory
+/home/administrator:
+total 0
+drwxr-xr-x 1 administrator administrator  114 Nov 16 12:52 Desktop
+drwxr-xr-x 1 administrator administrator  114 Oct 19 17:03 Documents
+drwxr-xr-x 1 administrator administrator 7112 Nov 30 22:14 Downloads
+drwxr-xr-x 1 administrator administrator   34 Nov 20 14:40 Eclipse
+drwxr-xr-x 1 administrator administrator    0 Jun 20 15:45 Music
+drwxr-xr-x 1 administrator administrator   84 Jun 21 20:02 Pictures
+drwxr-xr-x 1 administrator administrator    0 Jun 20 15:45 Public
+drwxr-xr-x 1 administrator administrator    0 Jun 20 15:45 Templates
+drwxr-x--- 1 administrator administrator  192 Oct 29 23:50 VMs
+drwxr-xr-x 1 administrator administrator   12 Jul 10 13:28 Videos
+
+/home/administrator/Desktop:
+total 4
+-rwxr-xr-x 1 administrator administrator 306 Nov 16 12:52 chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop
+
+/home/administrator/Documents:
+total 0
+drwxr-xr-x 1 administrator administrator 170 Nov  2 21:38 Backups
+drwxr-x--- 1 administrator administrator 452 Nov 30 21:13 Databases
+drwxr-xr-x 1 administrator administrator 142 Nov  2 00:08 GitHub
+drwxr-x--- 1 administrator administrator 150 Oct 29 22:04 Obsidian
+drwxr-x--- 1 administrator administrator  38 Jul 31 13:40 Other Docs
+drwxr-x--- 1 administrator administrator 292 Jan 23  2024 TRW
+drwxr-x--- 1 administrator administrator 280 Oct 26 13:36 TTPM
+drwxr-x--- 1 administrator administrator 580 Nov  2 21:32 University
+
+/home/administrator/Documents/Backups:
+total 1002376
+-rw-r--r-- 1 administrator administrator 1026432546 Nov  2 21:27 molly-2024-11-02-21-26-48.backup
+
+/home/administrator/Documents/Databases:
+total 96320
+-rw-r--r-- 1 administrator administrator    14743 Jun 22 10:09 Database.json
+-rw-r--r-- 1 administrator administrator 49254957 Nov 30 21:13 Database.old.sql
+-rw-r--r-- 1 administrator administrator 49255005 Nov 30 21:13 Database.sql
+-rw-r--r-- 1 administrator administrator    16057 Oct 31 22:30 aegis-backup-20241031-223040.json
+-rw-r--r-- 1 administrator administrator    16691 Oct 31 22:31 aegis-backup-20241031-223112.json
+-rw-r--r-- 1 administrator administrator    17277 Nov  1 21:35 aegis-backup-20241101-213537.json
+-rw-r--r-- 1 administrator administrator    17338 Nov  1 21:35 aegis-backup-20241101-213552.json
+-rw-r--r-- 1 administrator administrator    18019 Nov  1 22:13 aegis-backup-20241101-221326.json
+
+/home/administrator/Documents/GitHub:
+total 0
+drwxr-xr-x 1 administrator administrator 284 Jul 25 08:36 azerg-api
+drwxr-xr-x 1 administrator administrator 396 Oct 27 20:33 azerg-ui
+drwxr-xr-x 1 administrator administrator 316 Aug 13 08:19 iguider-api
+drwxr-xr-x 1 administrator administrator 408 Sep 18 18:11 iguider-ui
+drwxr-xr-x 1 administrator administrator  62 Nov 24 21:55 os-project
+drwxr-xr-x 1 administrator administrator 396 Sep 22 23:14 website-main
+drwxr-xr-x 1 administrator administrator 320 Sep 16 20:48 website-poc
+
+/home/administrator/Documents/GitHub/azerg-api:
+total 100
+-rw-r--r-- 1 administrator administrator   451 Jul 24 21:51 Dockerfile
+-rw-r--r-- 1 administrator administrator   491 Jul 25 08:36 Pipfile
+-rw-r--r-- 1 administrator administrator 78842 Jul 25 08:36 Pipfile.lock
+-rw-r--r-- 1 administrator administrator    49 Jun 22 12:41 README.md
+drwxr-xr-x 1 administrator administrator   142 Jul  9 13:21 app
+drwxr-xr-x 1 administrator administrator    36 Jul  9 10:23 docker
+drwxr-xr-x 1 administrator administrator    32 Jun 30 12:02 env
+drwxr-xr-x 1          7474          7474    94 Jul  9 10:50 logs
+drwxr-xr-x 1           999 administrator  1998 Nov 24 21:54 mongodata
+drwxr-xr-x 1          7474          7474    68 Jul  9 10:50 neodata
+-rw-r--r-- 1 administrator administrator   154 Jun 22 12:41 pytest.ini
+drwxr-xr-x 1           999 administrator    40 Jun 30 12:04 rabbitmqdata
+-rw-r--r-- 1 administrator administrator   165 Jul 25 08:36 requirements.txt
+drwxr-xr-x 1 administrator administrator    40 Jun 22 12:41 scripts
+
+/home/administrator/Documents/GitHub/azerg-api/app:
+total 4
+-rw-r--r-- 1 administrator administrator   0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root           88 Jul  1 11:06 __pycache__
+drwxr-xr-x 1 administrator administrator  70 Jul  1 10:56 api
+drwxr-xr-x 1 administrator administrator 114 Jul 24 09:24 config
+drwxr-xr-x 1 administrator administrator  22 Jun 22 12:41 core
+drwxr-xr-x 1 administrator administrator 134 Jul 25 08:35 crud
+-rw-r--r-- 1 administrator administrator 934 Jul  1 10:56 main.py
+drwxr-xr-x 1 administrator administrator 118 Jul 25 08:35 models
+drwxr-xr-x 1 administrator administrator 120 Jun 22 12:41 templates
+drwxr-xr-x 1 administrator administrator  36 Jun 22 12:41 tests
+drwxr-xr-x 1 administrator administrator  78 Jul 24 09:24 utils
+
+/home/administrator/Documents/GitHub/azerg-api/app/__pycache__:
+total 8
+-rw-r--r-- 1 root root  117 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root 1502 Jul  1 11:06 main.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/api:
+total 4
+-rw-r--r-- 1 administrator administrator   0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root           88 Jul  1 11:06 __pycache__
+-rw-r--r-- 1 administrator administrator 643 Jul  1 10:56 main.py
+drwxr-xr-x 1 administrator administrator 152 Oct 27 20:54 routes
+
+/home/administrator/Documents/GitHub/azerg-api/app/api/__pycache__:
+total 8
+-rw-r--r-- 1 root root  121 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root 1104 Jul  1 11:06 main.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/api/routes:
+total 52
+-rw-r--r-- 1 administrator administrator     0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root            338 Nov  5 13:42 __pycache__
+-rw-r--r-- 1 administrator administrator  6299 Oct 27 20:54 admin.py
+-rw-r--r-- 1 administrator administrator  7078 Jul 17 14:38 auth.py
+-rw-r--r-- 1 administrator administrator  1206 Jul  1 10:56 error.py
+-rw-r--r-- 1 administrator administrator  2994 Jul 25 08:35 metric.py
+-rw-r--r-- 1 administrator administrator 10209 Jul 25 09:41 report.py
+-rw-r--r-- 1 administrator administrator  4473 Jul 25 15:32 tag.py
+-rw-r--r-- 1 administrator administrator  6702 Jul  1 10:56 user.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/api/routes/__pycache__:
+total 68
+-rw-r--r-- 1 root root   128 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root  8797 Nov  5 13:42 admin.cpython-312.pyc
+-rw-r--r-- 1 root root  8623 Jul 17 14:38 auth.cpython-312.pyc
+-rw-r--r-- 1 root root  1998 Jul  1 11:06 error.cpython-312.pyc
+-rw-r--r-- 1 root root  4022 Jul 25 08:37 metric.cpython-312.pyc
+-rw-r--r-- 1 root root 14396 Jul 25 09:41 report.cpython-312.pyc
+-rw-r--r-- 1 root root  6513 Jul 25 15:32 tag.cpython-312.pyc
+-rw-r--r-- 1 root root  7793 Jul  1 11:06 user.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/config:
+total 16
+-rw-r--r-- 1 administrator administrator    0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root           222 Jul 25 15:24 __pycache__
+-rw-r--r-- 1 administrator administrator  154 Jul  2 09:50 celery.py
+-rw-r--r-- 1 administrator administrator 2219 Jul 25 15:24 db.py
+-rw-r--r-- 1 administrator administrator  876 Jun 22 12:41 schemas.py
+-rw-r--r-- 1 administrator administrator 1347 Jul  9 09:17 settings.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/config/__pycache__:
+total 20
+-rw-r--r-- 1 root root  124 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root  357 Jul  2 09:50 celery.cpython-312.pyc
+-rw-r--r-- 1 root root 2940 Jul 25 15:24 db.cpython-312.pyc
+-rw-r--r-- 1 root root 1123 Jun 30 12:04 schemas.cpython-312.pyc
+-rw-r--r-- 1 root root 2333 Jul  9 09:45 settings.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/core:
+total 0
+-rw-r--r-- 1 administrator administrator 0 Jun 22 12:41 __init__.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/crud:
+total 48
+-rw-r--r-- 1 administrator administrator     0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root            294 Jul 25 14:09 __pycache__
+-rw-r--r-- 1 administrator administrator  3046 Jun 30 12:41 auth.py
+-rw-r--r-- 1 administrator administrator  3056 Jul  1 10:56 error.py
+-rw-r--r-- 1 administrator administrator 18919 Jul 25 14:09 report.py
+-rw-r--r-- 1 administrator administrator  3414 Jul 25 09:53 tag.py
+-rw-r--r-- 1 administrator administrator  9656 Jul 25 08:35 user.py
+-rw-r--r-- 1 administrator administrator  1087 Jul  1 10:56 utils.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/crud/__pycache__:
+total 64
+-rw-r--r-- 1 root root   122 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root  4347 Jun 30 12:41 auth.cpython-312.pyc
+-rw-r--r-- 1 root root  3515 Jul  1 11:06 error.cpython-312.pyc
+-rw-r--r-- 1 root root 22732 Jul 25 14:09 report.cpython-312.pyc
+-rw-r--r-- 1 root root  4266 Jul 25 09:53 tag.cpython-312.pyc
+-rw-r--r-- 1 root root 12022 Jul 25 08:37 user.cpython-312.pyc
+-rw-r--r-- 1 root root  1650 Jul  1 11:06 utils.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/models:
+total 20
+-rw-r--r-- 1 administrator administrator    0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 root          root           294 Jul 25 09:53 __pycache__
+-rw-r--r-- 1 administrator administrator  231 Jul 17 14:38 auth.py
+-rw-r--r-- 1 administrator administrator 1090 Jul  1 10:56 error.py
+-rw-r--r-- 1 administrator administrator 2841 Jul 25 08:35 report.py
+-rw-r--r-- 1 administrator administrator 1363 Jul 25 09:53 tag.py
+-rw-r--r-- 1 administrator administrator 1920 Jul  1 10:56 user.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/models/__pycache__:
+total 32
+-rw-r--r-- 1 root root  124 Jun 30 12:04 __init__.cpython-312.pyc
+-rw-r--r-- 1 root root  826 Jul 17 14:38 auth.cpython-312.pyc
+-rw-r--r-- 1 root root 1821 Jul  1 11:06 error.cpython-312.pyc
+-rw-r--r-- 1 root root 1094 Jul  9 13:23 graph.cpython-312.pyc
+-rw-r--r-- 1 root root 4801 Jul 25 08:37 report.cpython-312.pyc
+-rw-r--r-- 1 root root 1979 Jul 25 09:53 tag.cpython-312.pyc
+-rw-r--r-- 1 root root 3647 Jul  1 11:06 user.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/app/templates:
+total 24
+-rw-r--r-- 1 administrator administrator 8756 Jun 22 12:41 email-verification-template.html
+-rw-r--r-- 1 administrator administrator 8745 Jun 22 12:41 password-reset-template.html
+
+/home/administrator/Documents/GitHub/azerg-api/app/tests:
+total 0
+-rw-r--r-- 1 administrator administrator  0 Jun 22 12:41 __init__.py
+drwxr-xr-x 1 administrator administrator 12 Jun 22 12:41 api
+drwxr-xr-x 1 administrator administrator 46 Jun 22 12:41 crud
+
+/home/administrator/Documents/GitHub/azerg-api/app/tests/api:
+total 0
+drwxr-xr-x 1 administrator administrator 46 Jun 22 12:41 routes
+
+/home/administrator/Documents/GitHub/azerg-api/app/tests/api/routes:
+total 8
+-rw-r--r-- 1 administrator administrator    0 Jun 22 12:41 __init__.py
+-rw-r--r-- 1 administrator administrator 6032 Jun 22 12:41 test_auth.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/tests/crud:
+total 8
+-rw-r--r-- 1 administrator administrator    0 Jun 22 12:41 __init__.py
+-rw-r--r-- 1 administrator administrator 4718 Jun 22 12:41 test_auth.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/utils:
+total 8
+drwxr-xr-x 1 root          root           108 Jul  1 09:36 __pycache__
+-rw-r--r-- 1 administrator administrator 2099 Jul  1 09:36 email_utils.py
+-rw-r--r-- 1 administrator administrator  987 Jun 22 12:41 redis_utils.py
+
+/home/administrator/Documents/GitHub/azerg-api/app/utils/__pycache__:
+total 8
+-rw-r--r-- 1 root root 2982 Jul  1 09:36 email_utils.cpython-312.pyc
+-rw-r--r-- 1 root root 1525 Jun 30 12:04 redis_utils.cpython-312.pyc
+
+/home/administrator/Documents/GitHub/azerg-api/docker:
+total 4
+-rw-r--r-- 1 administrator administrator 1355 Jul  9 10:23 docker-compose.yml
+
+/home/administrator/Documents/GitHub/azerg-api/env:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/logs:
+total 8212
+-rw-r--r-- 1 7474 7474 8327378 Nov 24 21:54 debug.log
+-rw-r--r-- 1 7474 7474       0 Jul  9 10:50 http.log
+-rw-r--r-- 1 7474 7474   74103 Nov 24 21:54 neo4j.log
+-rw-r--r-- 1 7474 7474       0 Jul  9 10:50 query.log
+-rw-r--r-- 1 7474 7474       0 Jul  9 10:50 security.log
+
+/home/administrator/Documents/GitHub/azerg-api/mongodata:
+total 1108
+-rw------- 1 999 administrator     50 Jun 30 12:04 WiredTiger
+-rw------- 1 999 administrator     21 Jun 30 12:04 WiredTiger.lock
+-rw------- 1 999 adm             1482 Nov 24 21:54 WiredTiger.turtle
+-rw------- 1 999 administrator 122880 Nov 24 21:54 WiredTiger.wt
+-rw------- 1 999 administrator   4096 Nov 24 21:54 WiredTigerHS.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 _mdb_catalog.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 collection-0--4245652842958813235.wt
+-rw------- 1 999 administrator  20480 Nov 24 21:54 collection-0--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 collection-1--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 collection-2--4245652842958813235.wt
+-rw------- 1 999 administrator  77824 Nov 24 21:54 collection-2--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 collection-3--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 collection-4--4739636029009483683.wt
+-rw------- 1 999 administrator  20480 Nov 24 21:54 collection-7--4739636029009483683.wt
+drwx------ 1 999 administrator   9044 Nov 24 21:54 diagnostic.data
+-rw------- 1 999 administrator  36864 Nov  5 13:43 index-0--8173618791294713322.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-0-2041955926449076419.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-0-435014838558518468.wt
+-rw------- 1 999 administrator  20480 Nov 24 21:54 index-1--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-10--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-11--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-12--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-13--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-15--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-3--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-5--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-5--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-6--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov 24 21:54 index-6--4739636029009483683.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-7--4245652842958813235.wt
+-rw------- 1 999 administrator  36864 Nov  5 13:44 index-8--4245652842958813235.wt
+-rw------- 1 999 administrator  20480 Jun 30 12:04 index-8--4739636029009483683.wt
+-rw------- 1 999 administrator  20480 Nov 24 21:54 index-9--4739636029009483683.wt
+drwx------ 1 999 administrator    160 Nov 24 21:04 journal
+-rw------- 1 999 administrator      0 Nov 24 21:54 mongod.lock
+-rw------- 1 999 administrator  36864 Nov 24 21:54 sizeStorer.wt
+-rw------- 1 999 administrator    114 Jun 30 12:04 storage.bson
+
+/home/administrator/Documents/GitHub/azerg-api/neodata:
+total 4
+drwxr-xr-x 1 7474 7474 42 Jul  9 10:50 databases
+drwxr-xr-x 1 7474 7474 16 Nov 24 21:03 dbms
+-rw-r--r-- 1 7474 7474 17 Jul  9 10:50 server_id
+drwxr-xr-x 1 7474 7474 22 Jul  9 10:50 transactions
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases:
+total 0
+drwxr-xr-x 1 7474 7474 1998 Nov 24 21:54 neo4j
+-rw-r--r-- 1 7474 7474    0 Jul  9 10:50 store_lock
+drwxr-xr-x 1 7474 7474 1998 Nov 24 21:54 system
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j:
+total 848
+-rw-r--r-- 1 7474 7474     0 Jul  9 10:50 database_lock
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.counts.db
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.indexstats.db
+-rw-r--r-- 1 7474 7474  8192 Jul  9 11:57 neostore.labeltokenstore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.labeltokenstore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 11:57 neostore.labeltokenstore.db.names
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.labeltokenstore.db.names.id
+-rw-r--r-- 1 7474 7474  8192 Jul 17 09:38 neostore.nodestore.db
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.nodestore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.nodestore.db.labels
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.nodestore.db.labels.id
+-rw-r--r-- 1 7474 7474  8192 Jul 17 09:38 neostore.propertystore.db
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.propertystore.db.arrays
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.arrays.id
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.propertystore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul 11 10:56 neostore.propertystore.db.index
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.index.id
+-rw-r--r-- 1 7474 7474  8192 Jul 11 10:56 neostore.propertystore.db.index.keys
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.index.keys.id
+-rw-r--r-- 1 7474 7474  8192 Jul 11 12:11 neostore.propertystore.db.strings
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.propertystore.db.strings.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.relationshipgroupstore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshipgroupstore.db.id
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshipgroupstore.degrees.db
+-rw-r--r-- 1 7474 7474  8192 Jul 17 09:38 neostore.relationshipstore.db
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.relationshipstore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul 11 10:21 neostore.relationshiptypestore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshiptypestore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul 11 10:21 neostore.relationshiptypestore.db.names
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshiptypestore.db.names.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.schemastore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.schemastore.db.id
+drwxr-xr-x 1 7474 7474    10 Jul  9 10:50 schema
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j/schema:
+total 0
+drwxr-xr-x 1 7474 7474 32 Jul  9 10:50 index
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j/schema/index:
+total 0
+drwxr-xr-x 1 7474 7474 4 Jul  9 10:50 token-lookup-1.0
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j/schema/index/token-lookup-1.0:
+total 0
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:50 1
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:50 2
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j/schema/index/token-lookup-1.0/1:
+total 48
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 index-1
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/neo4j/schema/index/token-lookup-1.0/2:
+total 48
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 index-2
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system:
+total 816
+-rw-r--r-- 1 7474 7474     0 Jul  9 10:50 database_lock
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.counts.db
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 neostore.indexstats.db
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.labeltokenstore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.labeltokenstore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.labeltokenstore.db.names
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.labeltokenstore.db.names.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.nodestore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.nodestore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.nodestore.db.labels
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.nodestore.db.labels.id
+-rw-r--r-- 1 7474 7474  8192 Jul 24 22:13 neostore.propertystore.db
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.propertystore.db.arrays
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.arrays.id
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.propertystore.db.index
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.index.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.propertystore.db.index.keys
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.index.keys.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.propertystore.db.strings
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.propertystore.db.strings.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:50 neostore.relationshipgroupstore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshipgroupstore.db.id
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshipgroupstore.degrees.db
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.relationshipstore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshipstore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.relationshiptypestore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshiptypestore.db.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.relationshiptypestore.db.names
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.relationshiptypestore.db.names.id
+-rw-r--r-- 1 7474 7474  8192 Jul  9 10:54 neostore.schemastore.db
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 neostore.schemastore.db.id
+drwxr-xr-x 1 7474 7474    10 Jul  9 10:50 schema
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema:
+total 0
+drwxr-xr-x 1 7474 7474 50 Jul  9 10:50 index
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index:
+total 0
+drwxr-xr-x 1 7474 7474 10 Jul  9 10:54 range-1.0
+drwxr-xr-x 1 7474 7474  4 Jul  9 10:50 token-lookup-1.0
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0:
+total 0
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:54 3
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:54 4
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:54 7
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:54 8
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:54 9
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0/3:
+total 40
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 index-3
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0/4:
+total 40
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 index-4
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0/7:
+total 40
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 index-7
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0/8:
+total 40
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 index-8
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/range-1.0/9:
+total 40
+-rw-r--r-- 1 7474 7474 40960 Nov 24 21:54 index-9
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/token-lookup-1.0:
+total 0
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:50 1
+drwxr-xr-x 1 7474 7474 14 Jul  9 10:50 2
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/token-lookup-1.0/1:
+total 48
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 index-1
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/databases/system/schema/index/token-lookup-1.0/2:
+total 48
+-rw-r--r-- 1 7474 7474 49152 Nov 24 21:54 index-2
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/dbms:
+total 4
+-rw-r--r-- 1 7474 7474 150 Nov 24 21:03 auth.ini
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/transactions:
+total 0
+drwxr-xr-x 1 7474 7474 74 Jul  9 10:50 neo4j
+drwxr-xr-x 1 7474 7474 74 Jul  9 10:50 system
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/transactions/neo4j:
+total 263168
+-rw-r--r-- 1 7474 7474   1048576 Nov 24 21:54 checkpoint.0
+-rw-r--r-- 1 7474 7474 268435456 Jul 17 09:34 neostore.transaction.db.0
+
+/home/administrator/Documents/GitHub/azerg-api/neodata/transactions/system:
+total 263168
+-rw-r--r-- 1 7474 7474   1048576 Nov 24 21:54 checkpoint.0
+-rw-r--r-- 1 7474 7474 268435456 Jul 24 21:51 neostore.transaction.db.0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata:
+total 0
+drwxr-xr-x 1 999 administrator 12364 Nov 24 21:53 mnesia
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia:
+total 352
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:52 rabbit@029b28f18c8c
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:51 rabbit@029b28f18c8c-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:51 rabbit@029b28f18c8c-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:51 rabbit@029b28f18c8c.pid
+drwxr-xr-x 1 999 administrator 968 Jul  2 10:09 rabbit@0301597951b2
+-rw-r--r-- 1 999 administrator 561 Jul  2 10:08 rabbit@0301597951b2-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 10:08 rabbit@0301597951b2-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul 18 09:47 rabbit@0357d6bf0617
+-rw-r--r-- 1 999 administrator 561 Jul 18 09:23 rabbit@0357d6bf0617-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 18 09:23 rabbit@0357d6bf0617-plugins-expand
+drwxr-xr-x 1 999 administrator 646 Jul  9 10:49 rabbit@03f8a6eefee6
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:47 rabbit@03f8a6eefee6-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:49 rabbit@03f8a6eefee6-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:49 rabbit@03f8a6eefee6.pid
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:57 rabbit@040a900a36ac
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:57 rabbit@040a900a36ac-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:57 rabbit@040a900a36ac-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:57 rabbit@040a900a36ac.pid
+drwxr-xr-x 1 999 administrator 694 Jul 11 10:33 rabbit@093c4aa31a27
+-rw-r--r-- 1 999 administrator 561 Jul 10 12:13 rabbit@093c4aa31a27-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 11 10:32 rabbit@093c4aa31a27-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 11 10:31 rabbit@093c4aa31a27.pid
+drwxr-xr-x 1 999 administrator 968 Jul 21 12:29 rabbit@0cd2f5fe9af2
+-rw-r--r-- 1 999 administrator 561 Jul 21 12:28 rabbit@0cd2f5fe9af2-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 21 12:28 rabbit@0cd2f5fe9af2-plugins-expand
+drwxr-xr-x 1 999 adm           694 Sep 18 17:38 rabbit@0f8e037e7e95
+-rw-r--r-- 1 999 adm           561 Sep 18 17:28 rabbit@0f8e037e7e95-feature_flags
+drwxr-xr-x 1 999 adm             0 Sep 18 17:36 rabbit@0f8e037e7e95-plugins-expand
+-rw-r--r-- 1 999 adm             2 Sep 18 17:36 rabbit@0f8e037e7e95.pid
+drwxr-xr-x 1 999 administrator 968 Jul  9 09:58 rabbit@11a84a0e4180
+-rw-r--r-- 1 999 administrator 561 Jul  9 09:57 rabbit@11a84a0e4180-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 09:57 rabbit@11a84a0e4180-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:24 rabbit@11c16d430b47
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:24 rabbit@11c16d430b47-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:24 rabbit@11c16d430b47-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:24 rabbit@11c16d430b47.pid
+drwxr-xr-x 1 999 administrator 694 Jul 18 15:19 rabbit@135ec98a6bdc
+-rw-r--r-- 1 999 administrator 561 Jul 18 12:05 rabbit@135ec98a6bdc-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 18 15:17 rabbit@135ec98a6bdc-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul 10 08:35 rabbit@1392b04f53f3
+-rw-r--r-- 1 999 administrator 561 Jul 10 08:33 rabbit@1392b04f53f3-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 10 08:33 rabbit@1392b04f53f3-plugins-expand
+drwxr-xr-x 1 999 adm           694 Aug 13 08:14 rabbit@1422033bac31
+-rw-r--r-- 1 999 adm           561 Jul 24 22:18 rabbit@1422033bac31-feature_flags
+drwxr-xr-x 1 999 adm             0 Aug 13 08:13 rabbit@1422033bac31-plugins-expand
+drwxr-xr-x 1 999 administrator 646 Jul  9 13:33 rabbit@1a9919f02e25
+-rw-r--r-- 1 999 administrator 561 Jul  9 11:01 rabbit@1a9919f02e25-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 13:33 rabbit@1a9919f02e25-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jun 30 12:17 rabbit@1cdb0ea8ee04
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:17 rabbit@1cdb0ea8ee04-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jun 30 12:17 rabbit@1cdb0ea8ee04-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jun 30 12:17 rabbit@1cdb0ea8ee04.pid
+drwxr-xr-x 1 999 administrator 614 Jul  9 09:44 rabbit@1e74efe36108
+-rw-r--r-- 1 999 administrator 561 Jul  9 09:44 rabbit@1e74efe36108-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 09:44 rabbit@1e74efe36108-plugins-expand
+drwxr-xr-x 1 999 adm           968 Sep 18 17:05 rabbit@1f05340734d3
+-rw-r--r-- 1 999 adm           561 Sep 18 17:03 rabbit@1f05340734d3-feature_flags
+drwxr-xr-x 1 999 adm             0 Sep 18 17:03 rabbit@1f05340734d3-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:54 rabbit@2477e798bbaf
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:54 rabbit@2477e798bbaf-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:54 rabbit@2477e798bbaf-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:54 rabbit@2477e798bbaf.pid
+drwxr-xr-x 1 999 administrator 646 Jul 14 12:36 rabbit@2713b8c7433d
+-rw-r--r-- 1 999 administrator 561 Jul 11 10:56 rabbit@2713b8c7433d-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 14 12:36 rabbit@2713b8c7433d-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 14 12:36 rabbit@2713b8c7433d.pid
+drwxr-xr-x 1 999 administrator 968 Jun 30 12:13 rabbit@31929699520f
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:11 rabbit@31929699520f-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jun 30 12:11 rabbit@31929699520f-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  2 11:19 rabbit@32d94f80eb0e
+-rw-r--r-- 1 999 administrator 561 Jul  2 10:18 rabbit@32d94f80eb0e-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 11:18 rabbit@32d94f80eb0e-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 23 20:39 rabbit@330223745d49
+-rw-r--r-- 1 999 administrator 561 Jul 23 11:13 rabbit@330223745d49-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 23 20:37 rabbit@330223745d49-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 23 20:37 rabbit@330223745d49.pid
+drwxr-xr-x 1 999 administrator 968 Jul  9 10:11 rabbit@3b107b86980a
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:09 rabbit@3b107b86980a-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:09 rabbit@3b107b86980a-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:09 rabbit@3b107b86980a.pid
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:46 rabbit@3fc605d5649b
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:46 rabbit@3fc605d5649b-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:46 rabbit@3fc605d5649b-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul 10 08:33 rabbit@40e7de020f87
+-rw-r--r-- 1 999 administrator 561 Jul 10 08:33 rabbit@40e7de020f87-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 10 08:33 rabbit@40e7de020f87-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:09 rabbit@410319ab82e6
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:09 rabbit@410319ab82e6-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:09 rabbit@410319ab82e6-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:09 rabbit@410319ab82e6.pid
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:50 rabbit@4c8f1d9bded9
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:50 rabbit@4c8f1d9bded9-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:50 rabbit@4c8f1d9bded9-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:50 rabbit@4c8f1d9bded9.pid
+drwxr-xr-x 1 999 administrator 694 Jul 17 09:46 rabbit@4ecc6025cbb3
+-rw-r--r-- 1 999 administrator 561 Jul 17 09:15 rabbit@4ecc6025cbb3-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 17 09:45 rabbit@4ecc6025cbb3-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 17 09:45 rabbit@4ecc6025cbb3.pid
+drwxr-xr-x 1 999 administrator 646 Jul 24 21:00 rabbit@69721a4de7f4
+-rw-r--r-- 1 999 administrator 561 Jul 24 10:49 rabbit@69721a4de7f4-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 24 21:00 rabbit@69721a4de7f4-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 24 20:59 rabbit@69721a4de7f4.pid
+drwxr-xr-x 1 999 administrator 694 Jul  1 12:56 rabbit@6a0a56a8223d
+-rw-r--r-- 1 999 administrator 561 Jul  1 12:13 rabbit@6a0a56a8223d-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  1 12:55 rabbit@6a0a56a8223d-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 21 11:55 rabbit@6b328922f23a
+-rw-r--r-- 1 999 administrator 561 Jul 20 13:35 rabbit@6b328922f23a-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 21 11:54 rabbit@6b328922f23a-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 22 13:52 rabbit@6bd21c7aa5ef
+-rw-r--r-- 1 999 administrator 561 Jul 22 10:21 rabbit@6bd21c7aa5ef-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 22 13:50 rabbit@6bd21c7aa5ef-plugins-expand
+drwxr-xr-x 1 999 adm           694 Sep 18 10:31 rabbit@72e4402361b8
+-rw-r--r-- 1 999 adm           561 Sep 15 10:59 rabbit@72e4402361b8-feature_flags
+drwxr-xr-x 1 999 adm             0 Sep 18 10:30 rabbit@72e4402361b8-plugins-expand
+-rw-r--r-- 1 999 adm             2 Sep 18 10:29 rabbit@72e4402361b8.pid
+drwxr-xr-x 1 999 adm           694 Nov 24 21:04 rabbit@753012e0be2f
+-rw-r--r-- 1 999 adm           561 Nov  5 13:42 rabbit@753012e0be2f-feature_flags
+drwxr-xr-x 1 999 adm             0 Nov 24 21:03 rabbit@753012e0be2f-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:57 rabbit@754bd34ea18a
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:57 rabbit@754bd34ea18a-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:57 rabbit@754bd34ea18a-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:57 rabbit@754bd34ea18a.pid
+drwxr-xr-x 1 999 administrator 968 Jul  9 10:57 rabbit@7596efaa9a76
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:55 rabbit@7596efaa9a76-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:55 rabbit@7596efaa9a76-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:55 rabbit@7596efaa9a76.pid
+drwxr-xr-x 1 999 administrator 614 Jun 30 12:19 rabbit@7d3e2c5c4003
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:19 rabbit@7d3e2c5c4003-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jun 30 12:19 rabbit@7d3e2c5c4003-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 17 12:46 rabbit@83ab4652cca2
+-rw-r--r-- 1 999 administrator 561 Jul 17 12:30 rabbit@83ab4652cca2-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 17 12:45 rabbit@83ab4652cca2-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:44 rabbit@86110c463f55
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:44 rabbit@86110c463f55-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:44 rabbit@86110c463f55-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 09:43 rabbit@87f65a1eaf4f
+-rw-r--r-- 1 999 administrator 561 Jul  9 09:43 rabbit@87f65a1eaf4f-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 09:43 rabbit@87f65a1eaf4f-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  2 09:56 rabbit@8904e5b2faeb
+-rw-r--r-- 1 999 administrator 561 Jul  2 09:48 rabbit@8904e5b2faeb-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 09:55 rabbit@8904e5b2faeb-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul 23 10:40 rabbit@8987713212bc
+-rw-r--r-- 1 999 administrator 561 Jul 23 10:40 rabbit@8987713212bc-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 23 10:40 rabbit@8987713212bc-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul  9 10:07 rabbit@97610d7d2682
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:06 rabbit@97610d7d2682-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:06 rabbit@97610d7d2682-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:06 rabbit@97610d7d2682.pid
+drwxr-xr-x 1 999 administrator 646 Jul  1 11:06 rabbit@9b9b93350594
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:42 rabbit@9b9b93350594-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  1 11:06 rabbit@9b9b93350594-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  1 15:44 rabbit@9cef73911d9e
+-rw-r--r-- 1 999 administrator 561 Jul  1 13:42 rabbit@9cef73911d9e-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  1 15:43 rabbit@9cef73911d9e-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul 24 08:14 rabbit@a3e4708857be
+-rw-r--r-- 1 999 administrator 561 Jul 24 08:12 rabbit@a3e4708857be-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 24 08:12 rabbit@a3e4708857be-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:06 rabbit@a547303fe441
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:06 rabbit@a547303fe441-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:06 rabbit@a547303fe441-plugins-expand
+drwxr-xr-x 1 999 administrator 872 Jul  9 09:47 rabbit@a7a68e82a9d4
+-rw-r--r-- 1 999 administrator 561 Jul  9 09:46 rabbit@a7a68e82a9d4-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 09:46 rabbit@a7a68e82a9d4-plugins-expand
+drwxr-xr-x 1 999 administrator 614 Jul  9 10:38 rabbit@af6e2516015f
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:38 rabbit@af6e2516015f-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:38 rabbit@af6e2516015f-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  9 22:04 rabbit@b1012649f8b6
+-rw-r--r-- 1 999 administrator 561 Jul  9 13:34 rabbit@b1012649f8b6-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 22:03 rabbit@b1012649f8b6-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 22:02 rabbit@b1012649f8b6.pid
+drwxr-xr-x 1 999 administrator 968 Jul 22 09:42 rabbit@b6e32f52bb85
+-rw-r--r-- 1 999 administrator 561 Jul 22 09:41 rabbit@b6e32f52bb85-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 22 09:41 rabbit@b6e32f52bb85-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jun 30 12:26 rabbit@bd61f5d02b58
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:24 rabbit@bd61f5d02b58-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jun 30 12:24 rabbit@bd61f5d02b58-plugins-expand
+drwxr-xr-x 1 999 adm           968 Sep 18 15:33 rabbit@c47fe4e48afe
+-rw-r--r-- 1 999 adm           561 Sep 18 15:32 rabbit@c47fe4e48afe-feature_flags
+drwxr-xr-x 1 999 adm             0 Sep 18 15:32 rabbit@c47fe4e48afe-plugins-expand
+drwxr-xr-x 1 999 adm           646 Nov  5 13:41 rabbit@c4b9f5974cdd
+-rw-r--r-- 1 999 adm           561 Sep 18 18:17 rabbit@c4b9f5974cdd-feature_flags
+drwxr-xr-x 1 999 adm             0 Nov  5 13:41 rabbit@c4b9f5974cdd-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 17 10:29 rabbit@c64403b71a55
+-rw-r--r-- 1 999 administrator 561 Jul 17 10:18 rabbit@c64403b71a55-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 17 10:28 rabbit@c64403b71a55-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul  2 08:55 rabbit@cf808245a258
+-rw-r--r-- 1 999 administrator 561 Jul  2 08:53 rabbit@cf808245a258-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 08:53 rabbit@cf808245a258-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul 24 21:52 rabbit@d09c5e9bde62
+-rw-r--r-- 1 999 administrator 561 Jul 24 21:51 rabbit@d09c5e9bde62-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 24 21:51 rabbit@d09c5e9bde62-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul 18 08:23 rabbit@d0e3de81fbd6
+-rw-r--r-- 1 999 administrator 561 Jul 17 15:30 rabbit@d0e3de81fbd6-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 18 08:22 rabbit@d0e3de81fbd6-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul 18 08:22 rabbit@d0e3de81fbd6.pid
+drwxr-xr-x 1 999 administrator 920 Jul  2 09:27 rabbit@da70de7b28ba
+-rw-r--r-- 1 999 administrator 561 Jul  2 09:02 rabbit@da70de7b28ba-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 09:02 rabbit@da70de7b28ba-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul  9 11:00 rabbit@e89298cf92b7
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:59 rabbit@e89298cf92b7-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:59 rabbit@e89298cf92b7-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul  9 10:26 rabbit@ef67ec698b26
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:25 rabbit@ef67ec698b26-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:25 rabbit@ef67ec698b26-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  9 10:43 rabbit@ef999f432ab4
+-rw-r--r-- 1 999 administrator 561 Jul  9 10:39 rabbit@ef999f432ab4-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:42 rabbit@ef999f432ab4-plugins-expand
+-rw-r--r-- 1 999 administrator   2 Jul  9 10:42 rabbit@ef999f432ab4.pid
+drwxr-xr-x 1 999 administrator 968 Jul  1 15:50 rabbit@f37e6166fde9
+-rw-r--r-- 1 999 administrator 561 Jul  1 15:49 rabbit@f37e6166fde9-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  1 15:49 rabbit@f37e6166fde9-plugins-expand
+drwxr-xr-x 1 999 administrator 914 Jun 30 12:09 rabbit@f61aa6999b96
+-rw-r--r-- 1 999 administrator 561 Jun 30 12:04 rabbit@f61aa6999b96-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jun 30 12:04 rabbit@f61aa6999b96-plugins-expand
+drwxr-xr-x 1 999 administrator 968 Jul 22 08:31 rabbit@f74fcffdffae
+-rw-r--r-- 1 999 administrator 561 Jul 22 08:30 rabbit@f74fcffdffae-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul 22 08:30 rabbit@f74fcffdffae-plugins-expand
+drwxr-xr-x 1 999 administrator 694 Jul  2 08:23 rabbit@fbe4b4b1e7b0
+-rw-r--r-- 1 999 administrator 561 Jul  1 20:13 rabbit@fbe4b4b1e7b0-feature_flags
+drwxr-xr-x 1 999 administrator   0 Jul  2 08:22 rabbit@fbe4b4b1e7b0-plugins-expand
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c:
+total 100
+-rw-r--r-- 1 999 administrator 27817 Jul  9 10:52 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul  9 10:52 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:51 coordination
+drwxr-xr-x 1 999 administrator    12 Jul  9 10:52 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul  9 10:52 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul  9 10:52 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:51 quorum
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_durable_exchange.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_durable_queue.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_durable_route.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_runtime_parameters.DCD
+-rw-r--r-- 1 999 administrator     3 Jul  9 10:52 rabbit_serial
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_topic_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_user.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_user_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:51 rabbit_vhost.DCD
+-rw-r--r-- 1 999 administrator 22105 Jul  9 10:52 schema.DAT
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/coordination:
+total 0
+drwxr-xr-x 1 999 administrator 98 Jul  9 10:51 rabbit@029b28f18c8c
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/coordination/rabbit@029b28f18c8c:
+total 32
+-rw-r--r-- 1 999 administrator 15233 Jul  9 10:52 00000001.wal
+drwxr-xr-x 1 999 administrator    52 Jul  9 10:51 RABBIT7FK7O7A5URU7
+-rw-r--r-- 1 999 administrator  5925 Jul  9 10:52 meta.dets
+-rw-r--r-- 1 999 administrator  5905 Jul  9 10:52 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/coordination/rabbit@029b28f18c8c/RABBIT7FK7O7A5URU7:
+total 4
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:51 checkpoints
+-rw-r--r-- 1 999 administrator 520 Jul  9 10:51 config
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:51 snapshots
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/coordination/rabbit@029b28f18c8c/RABBIT7FK7O7A5URU7/checkpoints:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/coordination/rabbit@029b28f18c8c/RABBIT7FK7O7A5URU7/snapshots:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/msg_stores:
+total 0
+drwxr-xr-x 1 999 administrator 50 Jul  9 10:52 vhosts
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/msg_stores/vhosts:
+total 0
+drwxr-xr-x 1 999 administrator 130 Jul  9 10:52 AAN6AYDHN3Q3OF58TDIXN8VU5
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5:
+total 8
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:52 msg_store_persistent
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:52 msg_store_transient
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:52 recovery.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_persistent:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:52 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_transient:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:52 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/quorum:
+total 0
+drwxr-xr-x 1 999 administrator 62 Jul  9 10:51 rabbit@029b28f18c8c
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c/quorum/rabbit@029b28f18c8c:
+total 20
+-rw-r--r-- 1 999 administrator    5 Jul  9 10:51 00000001.wal
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:52 meta.dets
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:51 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@029b28f18c8c-plugins-expand:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2:
+total 108
+-rw-r--r-- 1 999 administrator   153 Jul  2 10:09 DECISION_TAB.LOG
+-rw-r--r-- 1 999 administrator  2227 Jul  2 10:17 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul  2 10:08 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul  2 10:08 coordination
+drwxr-xr-x 1 999 administrator    12 Jul  2 10:08 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul  2 10:08 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul  2 10:08 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul  2 10:08 quorum
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_durable_exchange.DCD
+-rw-r--r-- 1 999 administrator  2327 Jul  2 10:09 rabbit_durable_exchange.DCL
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_durable_queue.DCD
+-rw-r--r-- 1 999 administrator   632 Jul  2 10:09 rabbit_durable_queue.DCL
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_durable_route.DCD
+-rw-r--r-- 1 999 administrator   363 Jul  2 10:09 rabbit_durable_route.DCL
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_runtime_parameters.DCD
+-rw-r--r-- 1 999 administrator   251 Jul  2 10:09 rabbit_runtime_parameters.DCL
+-rw-r--r-- 1 999 administrator     3 Jul  2 10:08 rabbit_serial
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_topic_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_user.DCD
+-rw-r--r-- 1 999 administrator   411 Jul  2 10:09 rabbit_user.DCL
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_user_permission.DCD
+-rw-r--r-- 1 999 administrator   259 Jul  2 10:09 rabbit_user_permission.DCL
+-rw-r--r-- 1 999 administrator     8 Jul  2 10:08 rabbit_vhost.DCD
+-rw-r--r-- 1 999 administrator   207 Jul  2 10:09 rabbit_vhost.DCL
+-rw-r--r-- 1 999 administrator 22105 Jul  2 10:08 schema.DAT
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/coordination:
+total 0
+drwxr-xr-x 1 999 administrator 98 Jul  2 10:08 rabbit@0301597951b2
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/coordination/rabbit@0301597951b2:
+total 32
+-rw-r--r-- 1 999 administrator 15236 Jul  2 10:08 00000001.wal
+drwxr-xr-x 1 999 administrator    52 Jul  2 10:08 RABBITVDUFBBQWMUGS
+-rw-r--r-- 1 999 administrator  5925 Jul  2 10:08 meta.dets
+-rw-r--r-- 1 999 administrator  5905 Jul  2 10:08 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/coordination/rabbit@0301597951b2/RABBITVDUFBBQWMUGS:
+total 4
+drwxr-xr-x 1 999 administrator   0 Jul  2 10:08 checkpoints
+-rw-r--r-- 1 999 administrator 520 Jul  2 10:08 config
+drwxr-xr-x 1 999 administrator   0 Jul  2 10:08 snapshots
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/coordination/rabbit@0301597951b2/RABBITVDUFBBQWMUGS/checkpoints:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/coordination/rabbit@0301597951b2/RABBITVDUFBBQWMUGS/snapshots:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores:
+total 0
+drwxr-xr-x 1 999 administrator 50 Jul  2 10:08 vhosts
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts:
+total 0
+drwxr-xr-x 1 999 administrator 142 Jul  2 10:08 AAN6AYDHN3Q3OF58TDIXN8VU5
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5:
+total 8
+drwxr-xr-x 1 999 administrator   98 Jul  2 10:17 msg_store_persistent
+drwxr-xr-x 1 999 administrator   98 Jul  2 10:17 msg_store_transient
+drwxr-xr-x 1 999 administrator   50 Jul  2 10:08 queues
+-rw-r--r-- 1 999 administrator 6003 Jul  2 10:17 recovery.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_persistent:
+total 12
+-rw-r--r-- 1 999 administrator   0 Jul  2 10:16 3.rdq
+-rw-r--r-- 1 999 administrator 121 Jul  2 10:17 clean.dot
+-rw-r--r-- 1 999 administrator 591 Jul  2 10:17 file_summary.ets
+-rw-r--r-- 1 999 administrator 512 Jul  2 10:17 msg_store_index.ets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_transient:
+total 12
+-rw-r--r-- 1 999 administrator   0 Jul  2 10:08 0.rdq
+-rw-r--r-- 1 999 administrator  61 Jul  2 10:17 clean.dot
+-rw-r--r-- 1 999 administrator 591 Jul  2 10:17 file_summary.ets
+-rw-r--r-- 1 999 administrator 512 Jul  2 10:17 msg_store_index.ets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/queues:
+total 0
+drwxr-xr-x 1 999 administrator 44 Jul  2 10:08 5NCY7KF18JZSY5SCX2TVP0H2C
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/queues/5NCY7KF18JZSY5SCX2TVP0H2C:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  2 10:16 journal.jif
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/quorum:
+total 0
+drwxr-xr-x 1 999 administrator 62 Jul  2 10:08 rabbit@0301597951b2
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2/quorum/rabbit@0301597951b2:
+total 20
+-rw-r--r-- 1 999 administrator    5 Jul  2 10:08 00000001.wal
+-rw-r--r-- 1 999 administrator 5464 Jul  2 10:08 meta.dets
+-rw-r--r-- 1 999 administrator 5464 Jul  2 10:08 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0301597951b2-plugins-expand:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617:
+total 108
+-rw-r--r-- 1 999 administrator   153 Jul 18 09:47 DECISION_TAB.LOG
+-rw-r--r-- 1 999 administrator  2227 Jul 18 10:57 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul 18 09:23 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul 18 09:23 coordination
+drwxr-xr-x 1 999 administrator    12 Jul 18 09:23 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul 18 09:23 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul 18 09:23 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul 18 09:23 quorum
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_durable_exchange.DCD
+-rw-r--r-- 1 999 administrator  2327 Jul 18 09:47 rabbit_durable_exchange.DCL
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_durable_queue.DCD
+-rw-r--r-- 1 999 administrator   632 Jul 18 09:47 rabbit_durable_queue.DCL
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_durable_route.DCD
+-rw-r--r-- 1 999 administrator   363 Jul 18 09:47 rabbit_durable_route.DCL
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_runtime_parameters.DCD
+-rw-r--r-- 1 999 administrator   251 Jul 18 09:47 rabbit_runtime_parameters.DCL
+-rw-r--r-- 1 999 administrator     3 Jul 18 09:23 rabbit_serial
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_topic_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_user.DCD
+-rw-r--r-- 1 999 administrator   411 Jul 18 09:47 rabbit_user.DCL
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_user_permission.DCD
+-rw-r--r-- 1 999 administrator   259 Jul 18 09:47 rabbit_user_permission.DCL
+-rw-r--r-- 1 999 administrator     8 Jul 18 09:23 rabbit_vhost.DCD
+-rw-r--r-- 1 999 administrator   207 Jul 18 09:47 rabbit_vhost.DCL
+-rw-r--r-- 1 999 administrator 22105 Jul 18 09:23 schema.DAT
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/coordination:
+total 0
+drwxr-xr-x 1 999 administrator 98 Jul 18 09:23 rabbit@0357d6bf0617
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/coordination/rabbit@0357d6bf0617:
+total 32
+-rw-r--r-- 1 999 administrator 15233 Jul 18 09:23 00000001.wal
+drwxr-xr-x 1 999 administrator    52 Jul 18 09:23 RABBITAHNHMBZIHR23
+-rw-r--r-- 1 999 administrator  5925 Jul 18 09:23 meta.dets
+-rw-r--r-- 1 999 administrator  5905 Jul 18 09:23 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/coordination/rabbit@0357d6bf0617/RABBITAHNHMBZIHR23:
+total 4
+drwxr-xr-x 1 999 administrator   0 Jul 18 09:23 checkpoints
+-rw-r--r-- 1 999 administrator 520 Jul 18 09:23 config
+drwxr-xr-x 1 999 administrator   0 Jul 18 09:23 snapshots
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/coordination/rabbit@0357d6bf0617/RABBITAHNHMBZIHR23/checkpoints:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/coordination/rabbit@0357d6bf0617/RABBITAHNHMBZIHR23/snapshots:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/msg_stores:
+total 0
+drwxr-xr-x 1 999 administrator 50 Jul 18 09:23 vhosts
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/msg_stores/vhosts:
+total 0
+drwxr-xr-x 1 999 administrator 130 Jul 18 09:23 AAN6AYDHN3Q3OF58TDIXN8VU5
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5:
+total 8
+drwxr-xr-x 1 999 administrator   98 Jul 18 10:57 msg_store_persistent
+drwxr-xr-x 1 999 administrator   98 Jul 18 10:57 msg_store_transient
+-rw-r--r-- 1 999 administrator 6003 Jul 18 10:57 recovery.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_persistent:
+total 12
+-rw-r--r-- 1 999 administrator   0 Jul 18 09:23 0.rdq
+-rw-r--r-- 1 999 administrator 120 Jul 18 10:57 clean.dot
+-rw-r--r-- 1 999 administrator 591 Jul 18 10:57 file_summary.ets
+-rw-r--r-- 1 999 administrator 512 Jul 18 10:57 msg_store_index.ets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_transient:
+total 12
+-rw-r--r-- 1 999 administrator   0 Jul 18 09:23 0.rdq
+-rw-r--r-- 1 999 administrator  61 Jul 18 10:57 clean.dot
+-rw-r--r-- 1 999 administrator 591 Jul 18 10:57 file_summary.ets
+-rw-r--r-- 1 999 administrator 512 Jul 18 10:57 msg_store_index.ets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/quorum:
+total 0
+drwxr-xr-x 1 999 administrator 62 Jul 18 09:23 rabbit@0357d6bf0617
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617/quorum/rabbit@0357d6bf0617:
+total 20
+-rw-r--r-- 1 999 administrator    5 Jul 18 09:23 00000001.wal
+-rw-r--r-- 1 999 administrator 5464 Jul 18 09:23 meta.dets
+-rw-r--r-- 1 999 administrator 5464 Jul 18 09:23 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@0357d6bf0617-plugins-expand:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6:
+total 84
+-rw-r--r-- 1 999 administrator   153 Jul  9 10:49 DECISION_TAB.LOG
+-rw-r--r-- 1 999 administrator  4238 Jul  9 10:50 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul  9 10:49 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:47 coordination
+drwxr-xr-x 1 999 administrator    12 Jul  9 10:47 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul  9 10:49 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul  9 10:49 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:47 quorum
+-rw-r--r-- 1 999 administrator  1589 Jul  9 10:49 rabbit_durable_exchange.DCD
+-rw-r--r-- 1 999 administrator   305 Jul  9 10:49 rabbit_durable_queue.DCD
+-rw-r--r-- 1 999 administrator   224 Jul  9 10:49 rabbit_durable_route.DCD
+-rw-r--r-- 1 999 administrator   192 Jul  9 10:49 rabbit_runtime_parameters.DCD
+-rw-r--r-- 1 999 administrator     3 Jul  9 10:49 rabbit_serial
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:47 rabbit_topic_permission.DCD
+-rw-r--r-- 1 999 administrator   228 Jul  9 10:49 rabbit_user.DCD
+-rw-r--r-- 1 999 administrator   190 Jul  9 10:49 rabbit_user_permission.DCD
+-rw-r--r-- 1 999 administrator   172 Jul  9 10:49 rabbit_vhost.DCD
+-rw-r--r-- 1 999 administrator 22105 Jul  9 10:49 schema.DAT
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/coordination:
+total 0
+drwxr-xr-x 1 999 administrator 98 Jul  9 10:49 rabbit@03f8a6eefee6
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/coordination/rabbit@03f8a6eefee6:
+total 32
+-rw-r--r-- 1 999 administrator 13944 Jul  9 10:49 00000002.wal
+drwxr-xr-x 1 999 administrator    84 Jul  9 10:49 RABBITVRLQPSS1UU7R
+-rw-r--r-- 1 999 administrator  5925 Jul  9 10:49 meta.dets
+-rw-r--r-- 1 999 administrator  5905 Jul  9 10:47 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/coordination/rabbit@03f8a6eefee6/RABBITVRLQPSS1UU7R:
+total 24
+-rw-r--r-- 1 999 administrator 145964 Jul  9 10:49 00000001.segment
+drwxr-xr-x 1 999 administrator      0 Jul  9 10:47 checkpoints
+-rw-r--r-- 1 999 administrator    520 Jul  9 10:47 config
+drwxr-xr-x 1 999 administrator      0 Jul  9 10:47 snapshots
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/coordination/rabbit@03f8a6eefee6/RABBITVRLQPSS1UU7R/checkpoints:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/coordination/rabbit@03f8a6eefee6/RABBITVRLQPSS1UU7R/snapshots:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/msg_stores:
+total 0
+drwxr-xr-x 1 999 administrator 50 Jul  9 10:47 vhosts
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/msg_stores/vhosts:
+total 0
+drwxr-xr-x 1 999 administrator 130 Jul  9 10:49 AAN6AYDHN3Q3OF58TDIXN8VU5
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5:
+total 8
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:49 msg_store_persistent
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:49 msg_store_transient
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:49 recovery.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_persistent:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:49 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_transient:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:49 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/quorum:
+total 0
+drwxr-xr-x 1 999 administrator 62 Jul  9 10:49 rabbit@03f8a6eefee6
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6/quorum/rabbit@03f8a6eefee6:
+total 20
+-rw-r--r-- 1 999 administrator    5 Jul  9 10:49 00000002.wal
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:47 meta.dets
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:47 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@03f8a6eefee6-plugins-expand:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac:
+total 100
+-rw-r--r-- 1 999 administrator 27817 Jul  9 10:57 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul  9 10:57 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:57 coordination
+drwxr-xr-x 1 999 administrator    12 Jul  9 10:57 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul  9 10:57 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul  9 10:57 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul  9 10:57 quorum
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_durable_exchange.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_durable_queue.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_durable_route.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_runtime_parameters.DCD
+-rw-r--r-- 1 999 administrator     3 Jul  9 10:57 rabbit_serial
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_topic_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_user.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_user_permission.DCD
+-rw-r--r-- 1 999 administrator     8 Jul  9 10:57 rabbit_vhost.DCD
+-rw-r--r-- 1 999 administrator 22105 Jul  9 10:57 schema.DAT
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/coordination:
+total 0
+drwxr-xr-x 1 999 administrator 98 Jul  9 10:57 rabbit@040a900a36ac
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/coordination/rabbit@040a900a36ac:
+total 32
+-rw-r--r-- 1 999 administrator 15233 Jul  9 10:57 00000001.wal
+drwxr-xr-x 1 999 administrator    52 Jul  9 10:57 RABBITWGGTA6QZGUW8
+-rw-r--r-- 1 999 administrator  5925 Jul  9 10:57 meta.dets
+-rw-r--r-- 1 999 administrator  5905 Jul  9 10:57 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/coordination/rabbit@040a900a36ac/RABBITWGGTA6QZGUW8:
+total 4
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:57 checkpoints
+-rw-r--r-- 1 999 administrator 520 Jul  9 10:57 config
+drwxr-xr-x 1 999 administrator   0 Jul  9 10:57 snapshots
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/coordination/rabbit@040a900a36ac/RABBITWGGTA6QZGUW8/checkpoints:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/coordination/rabbit@040a900a36ac/RABBITWGGTA6QZGUW8/snapshots:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/msg_stores:
+total 0
+drwxr-xr-x 1 999 administrator 50 Jul  9 10:57 vhosts
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/msg_stores/vhosts:
+total 0
+drwxr-xr-x 1 999 administrator 130 Jul  9 10:57 AAN6AYDHN3Q3OF58TDIXN8VU5
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5:
+total 8
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:57 msg_store_persistent
+drwxr-xr-x 1 999 administrator   10 Jul  9 10:57 msg_store_transient
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:57 recovery.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_persistent:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:57 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/msg_stores/vhosts/AAN6AYDHN3Q3OF58TDIXN8VU5/msg_store_transient:
+total 0
+-rw-r--r-- 1 999 administrator 0 Jul  9 10:57 0.rdq
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/quorum:
+total 0
+drwxr-xr-x 1 999 administrator 62 Jul  9 10:57 rabbit@040a900a36ac
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac/quorum/rabbit@040a900a36ac:
+total 20
+-rw-r--r-- 1 999 administrator    5 Jul  9 10:57 00000001.wal
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:57 meta.dets
+-rw-r--r-- 1 999 administrator 5464 Jul  9 10:57 names.dets
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@040a900a36ac-plugins-expand:
+total 0
+
+/home/administrator/Documents/GitHub/azerg-api/rabbitmqdata/mnesia/rabbit@093c4aa31a27:
+total 84
+-rw-r--r-- 1 999 administrator   156 Jul 11 10:33 DECISION_TAB.LOG
+-rw-r--r-- 1 999 administrator  1459 Jul 11 10:56 LATEST.LOG
+-rw-r--r-- 1 999 administrator    47 Jul 11 10:32 cluster_nodes.config
+drwxr-xr-x 1 999 administrator    38 Jul 10 12:13 coordination
+drwxr-xr-x 1 999 administrator    12 Jul 10 12:13 msg_stores
+-rw-r--r-- 1 999 administrator     6 Jul 11 10:32 node-type.txt
+-rw-r--r-- 1 999 administrator    23 Jul 11 10:32 nodes_running_at_shutdown
+drwxr-xr-x 1 999 administrator    38 Jul 10 12:13 quorum
+-rw-r--r-- 
